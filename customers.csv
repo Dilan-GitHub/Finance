@@ -1,0 +1,1001 @@
+﻿customer_id,first_name,last_name,age,gender,credit_score,annual_income,employement_status,region,address,debt_to_income_ratio
+1,James,Lee,69,Male,556,55700,Employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.64
+2,Susan,Smith,19,Female,726,91472,Self-employed,Richardson,"5050 Oak St, Richardson, TX",0.21
+3,Michael,Johnson,35,Male,519,74113,Unemployed,Richardson,"5050 Oak St, Richardson, TX",0.73
+3,Michael,Johnson,35,Male,449,74113,Unemployed,Richardson,"5050 Oak St, Richardson, TX",0.73
+4,Elizabeth,Anderson,54,Female,556,113575,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.24
+5,Elizabeth,Perez,23,Female,535,32422,Self-employed,Frisco,"357 Cedar St, Frisco, TX",1.48
+6,Karen,Thompson,56,Female,832,80933,Employed,Colleyville,"2020 Willow St, Colleyville, TX",0.1
+7,Patricia,Moore,36,Female,798,36437,Employed,Dallas,"123 Elm St, Dallas, TX",0.42
+8,Barbara,Martinez,32,Female,711,113227,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.21
+8,Barbara,Martinez,32,Female,587,113227,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.21
+9,Thomas,Williams,38,Male,734,76670,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.08
+10,Patricia,Anderson,70,Female,601,79083,Employed,Denton,"999 Magnolia Ave, Denton, TX",0.59
+11,David,Lee,39,Male,447,31631,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",1.19
+12,Susan,Hernandez,70,Female,770,115304,Self-employed,Southlake,"801 Cherry St, Southlake, TX",0.01
+13,Mary,Thomas,66,Female,491,53325,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.9
+14,Charles,Lee,62,Male,435,61388,Unemployed,Richardson,"5050 Oak St, Richardson, TX",0.71
+15,Linda,Johnson,46,Female,754,84690,Unemployed,Fort Worth,"456 Oak St, Fort Worth, TX",0.14
+16,James,Jackson,22,Male,787,103914,Employed,Plano,"135 Maple St, Plano, TX",0.1
+17,Joseph,Miller,66,Male,435,85167,Unemployed,Dallas,"123 Elm St, Dallas, TX",0.53
+17,Joseph,Miller,66,Male,537,85167,Unemployed,Dallas,"123 Elm St, Dallas, TX",0.53
+18,Mary,Rodriguez,68,Female,592,99502,Self-employed,Keller,"4040 Birch St, Keller, TX",0.37
+19,Patricia,Brown,38,Female,469,115969,Self-employed,McKinney,"690 Ash St, McKinney, TX",0.35
+20,Charles,Gonzalez,58,Male,802,35596,Unemployed,Keller,"4040 Birch St, Keller, TX",0.36
+21,William,Wilson,57,Male,551,119744,Unemployed,Plano,"135 Maple St, Plano, TX",0.22
+22,Jennifer,Jackson,56,Female,435,52075,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.55
+23,Thomas,Brown,61,Male,761,31004,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.02
+23,Thomas,Brown,61,Male,745,31004,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.02
+24,Charles,Johnson,18,Male,727,117047,Unemployed,Keller,"4040 Birch St, Keller, TX",0.01
+25,Jennifer,Lee,34,Female,544,57532,Employed,Irving,"246 Birch St, Irving, TX",0.53
+26,Susan,Anderson,34,Female,624,51227,Employed,Grapevine,"468 Spruce St, Grapevine, TX",0.78
+26,Susan,Anderson,34,Female,435,51227,Employed,Grapevine,"468 Spruce St, Grapevine, TX",0.78
+27,Karen,Garcia,53,Female,782,98829,Employed,Arlington,"789 Pine St, Arlington, TX",0.04
+28,Joseph,Lee,24,Male,790,31064,Employed,Richardson,"5050 Oak St, Richardson, TX",0.29
+29,Michael,Brown,32,Male,486,108848,Self-employed,Irving,"246 Birch St, Irving, TX",0.34
+30,Patricia,Hernandez,32,Female,527,87556,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.6
+31,Elizabeth,Garcia,30,Female,531,77708,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.54
+32,Charles,Garcia,40,Male,514,61949,Self-employed,Keller,"4040 Birch St, Keller, TX",0.68
+32,Charles,Garcia,40,Male,472,61949,Self-employed,Keller,"4040 Birch St, Keller, TX",0.68
+33,Patricia,Smith,25,Female,590,109013,Employed,Arlington,"789 Pine St, Arlington, TX",0.46
+34,Robert,Jackson,53,Male,837,92013,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0
+35,Linda,Lee,27,Female,749,66967,Unemployed,Denton,"999 Magnolia Ave, Denton, TX",0.09
+36,Sarah,Thomas,19,Female,435,60642,Unemployed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.46
+37,James,Brown,40,Male,617,87924,Employed,Richardson,"5050 Oak St, Richardson, TX",0.24
+38,Linda,Hernandez,40,Female,799,38686,Self-employed,Grapevine,"468 Spruce St, Grapevine, TX",0.42
+39,Robert,Davis,32,Male,435,102652,Unemployed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.49
+40,James,Wilson,35,Male,758,78825,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.14
+41,Jessica,Anderson,36,Female,783,71847,Unemployed,Grapevine,"468 Spruce St, Grapevine, TX",0.01
+42,Susan,Martinez,47,Female,529,99616,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.29
+43,John,Garcia,61,Male,625,108980,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.21
+44,Sarah,Martin,65,Female,491,65364,Employed,Grapevine,"468 Spruce St, Grapevine, TX",0.75
+45,David,Jones,18,Male,592,40706,Employed,Richardson,"5050 Oak St, Richardson, TX",0.64
+46,James,Rodriguez,70,Male,444,104462,Self-employed,Dallas,"123 Elm St, Dallas, TX",0.41
+47,Jessica,Lopez,56,Female,811,112293,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.11
+48,David,Garcia,39,Male,435,53843,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",0.87
+48,David,Garcia,39,Male,606,53843,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",0.87
+49,Linda,Wilson,53,Female,472,117984,Self-employed,Richardson,"5050 Oak St, Richardson, TX",0.39
+50,David,Wilson,67,Male,767,84833,Employed,Coppell,"3030 Maple St, Coppell, TX",0.18
+51,John,Thompson,24,Male,435,49641,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.94
+51,John,Thompson,24,Male,473,49641,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.94
+52,Jessica,Miller,22,Female,451,52578,Unemployed,Denton,"999 Magnolia Ave, Denton, TX",0.66
+53,John,Thompson,19,Male,554,57361,Employed,McKinney,"690 Ash St, McKinney, TX",0.39
+54,Mary,Thomas,46,Female,520,72160,Self-employed,Richardson,"5050 Oak St, Richardson, TX",0.7
+55,Charles,Miller,67,Male,477,87329,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.48
+56,Charles,Wilson,56,Male,454,78764,Unemployed,Grapevine,"468 Spruce St, Grapevine, TX",0.47
+57,Jessica,Thomas,52,Female,441,48931,Employed,Plano,"135 Maple St, Plano, TX",0.83
+57,Jessica,Thomas,52,Female,544,48931,Employed,Plano,"135 Maple St, Plano, TX",0.83
+58,Elizabeth,Moore,70,Female,623,109780,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.29
+58,Elizabeth,Moore,70,Female,436,109780,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.29
+59,Michael,Johnson,38,Male,782,59030,Employed,Coppell,"3030 Maple St, Coppell, TX",0.3
+60,Elizabeth,Wilson,65,Female,717,51540,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",0.48
+61,Michael,Lopez,27,Male,435,86606,Employed,Denton,"999 Magnolia Ave, Denton, TX",0.44
+61,Michael,Lopez,27,Male,538,86606,Employed,Denton,"999 Magnolia Ave, Denton, TX",0.44
+62,Michael,Lee,35,Male,767,84898,Employed,Denton,"999 Magnolia Ave, Denton, TX",0.12
+63,Barbara,Miller,53,Female,486,86467,Self-employed,Southlake,"801 Cherry St, Southlake, TX",0.53
+64,Robert,Jackson,55,Male,435,58070,Employed,Dallas,"123 Elm St, Dallas, TX",0.61
+65,Thomas,Wilson,69,Male,627,91868,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.32
+66,Charles,Rodriguez,20,Male,703,46419,Self-employed,Plano,"135 Maple St, Plano, TX",0.56
+67,Richard,Anderson,50,Male,788,51262,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.32
+67,Richard,Anderson,50,Male,737,51262,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.32
+68,Elizabeth,Anderson,50,Female,768,43304,Unemployed,Southlake,"801 Cherry St, Southlake, TX",0.42
+69,William,Thomas,60,Male,529,103041,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.34
+70,Thomas,Taylor,63,Male,747,86131,Employed,Colleyville,"2020 Willow St, Colleyville, TX",0.19
+71,Sarah,Thomas,55,Female,772,89165,Self-employed,Plano,"135 Maple St, Plano, TX",0.04
+72,Richard,Martin,43,Male,729,107979,Self-employed,Plano,"135 Maple St, Plano, TX",0.17
+73,Elizabeth,Anderson,44,Female,832,80209,Employed,Coppell,"3030 Maple St, Coppell, TX",0.21
+73,Elizabeth,Anderson,44,Female,731,80209,Employed,Coppell,"3030 Maple St, Coppell, TX",0.21
+74,Joseph,Lee,69,Male,566,116451,Employed,Frisco,"357 Cedar St, Frisco, TX",0.45
+74,Joseph,Lee,69,Male,623,116451,Employed,Frisco,"357 Cedar St, Frisco, TX",0.45
+75,John,Anderson,57,Male,497,33958,Self-employed,Arlington,"789 Pine St, Arlington, TX",1.24
+76,Elizabeth,Davis,70,Female,743,103784,Unemployed,Keller,"4040 Birch St, Keller, TX",0.17
+77,William,Hernandez,59,Male,543,36421,Employed,Dallas,"123 Elm St, Dallas, TX",1.24
+78,Thomas,Wilson,65,Male,540,50202,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.85
+79,Susan,Taylor,20,Female,572,114509,Employed,Arlington,"789 Pine St, Arlington, TX",0.35
+80,Barbara,Williams,59,Female,520,63725,Self-employed,Arlington,"789 Pine St, Arlington, TX",0.54
+81,Robert,Miller,48,Male,784,72554,Employed,Irving,"246 Birch St, Irving, TX",0.19
+81,Robert,Miller,48,Male,790,72554,Employed,Irving,"246 Birch St, Irving, TX",0.19
+82,Joseph,Moore,27,Male,472,35912,Self-employed,Arlington,"789 Pine St, Arlington, TX",1.42
+83,David,Jones,49,Male,545,50594,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.97
+84,David,Brown,69,Male,539,74304,Employed,Dallas,"123 Elm St, Dallas, TX",0.69
+85,Mary,Gonzalez,45,Female,440,36592,Self-employed,Dallas,"123 Elm St, Dallas, TX",1.27
+86,William,Thompson,19,Male,601,50324,Employed,Colleyville,"2020 Willow St, Colleyville, TX",1.01
+87,Barbara,Gonzalez,62,Female,544,93458,Self-employed,Plano,"135 Maple St, Plano, TX",0.58
+87,Barbara,Gonzalez,62,Female,563,93458,Self-employed,Plano,"135 Maple St, Plano, TX",0.58
+88,Richard,Perez,34,Male,662,44971,Unemployed,Frisco,"357 Cedar St, Frisco, TX",0.54
+89,Robert,Martin,27,Male,553,56637,Self-employed,Arlington,"789 Pine St, Arlington, TX",0.83
+90,Joseph,Garcia,44,Male,438,91179,Employed,Dallas,"123 Elm St, Dallas, TX",0.57
+91,Karen,Jackson,57,Female,435,34354,Unemployed,Flower Mound,"1010 Elm St, Flower Mound, TX",1.07
+92,Susan,Lopez,40,Female,435,64626,Self-employed,McKinney,"690 Ash St, McKinney, TX",0.65
+93,Richard,Jackson,36,Male,549,73155,Employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.38
+94,Michael,Moore,48,Male,528,40740,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0.92
+95,Jessica,Davis,43,Female,753,115754,Employed,Colleyville,"2020 Willow St, Colleyville, TX",0.15
+96,John,Williams,57,Male,526,101116,Employed,McKinney,"690 Ash St, McKinney, TX",0.36
+97,Sarah,Thompson,43,Female,768,99278,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.11
+98,Elizabeth,Brown,48,Female,818,64074,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.1
+98,Elizabeth,Brown,48,Female,785,64074,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.1
+99,John,Thompson,40,Male,690,33313,Self-employed,Richardson,"5050 Oak St, Richardson, TX",0.79
+100,David,Martin,45,Male,581,80112,Self-employed,Dallas,"123 Elm St, Dallas, TX",0.34
+101,Susan,Taylor,47,Female,831,106033,Unemployed,Colleyville,"2020 Willow St, Colleyville, TX",0.03
+102,David,Thompson,47,Male,435,49876,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.91
+103,Jessica,Thompson,58,Female,435,46138,Employed,McKinney,"690 Ash St, McKinney, TX",0.7
+104,Elizabeth,Jackson,63,Female,537,85584,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0.33
+105,Charles,Rodriguez,59,Male,626,105262,Self-employed,Richardson,"5050 Oak St, Richardson, TX",0.24
+106,Richard,Jackson,53,Male,562,102988,Self-employed,Dallas,"123 Elm St, Dallas, TX",0.22
+107,Thomas,Smith,36,Male,587,69471,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.76
+108,Jennifer,Gonzalez,22,Female,790,44929,Unemployed,Grapevine,"468 Spruce St, Grapevine, TX",0.31
+109,Mary,Hernandez,31,Female,774,59092,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.17
+109,Mary,Hernandez,31,Female,790,59092,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.17
+110,Richard,Thomas,56,Male,516,61943,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.49
+111,Robert,Thomas,39,Male,435,72694,Employed,Keller,"4040 Birch St, Keller, TX",0.51
+112,Charles,Wilson,25,Male,713,51129,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.44
+113,Linda,Jackson,20,Female,580,53314,Unemployed,Fort Worth,"456 Oak St, Fort Worth, TX",0.54
+114,Patricia,Perez,38,Female,595,96717,Employed,Southlake,"801 Cherry St, Southlake, TX",0.42
+114,Patricia,Perez,38,Female,529,96717,Employed,Southlake,"801 Cherry St, Southlake, TX",0.42
+115,Susan,Williams,23,Female,739,92133,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.1
+116,Thomas,Garcia,18,Male,743,75610,Self-employed,Irving,"246 Birch St, Irving, TX",0.03
+117,Mary,Smith,45,Female,435,32514,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",1.22
+118,Elizabeth,Lee,62,Female,568,106573,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.38
+119,Elizabeth,Gonzalez,61,Female,544,110273,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.4
+120,Thomas,Perez,55,Male,442,81235,Employed,Richardson,"5050 Oak St, Richardson, TX",0.65
+121,Michael,Garcia,22,Male,729,50368,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.17
+121,Michael,Garcia,22,Male,815,50368,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.17
+121,Michael,Garcia,22,Male,774,50368,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.17
+122,Michael,Johnson,47,Male,575,49991,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",0.87
+123,Barbara,Jackson,36,Female,798,103356,Self-employed,Southlake,"801 Cherry St, Southlake, TX",0.1
+124,Elizabeth,Lee,21,Female,435,67219,Unemployed,Fort Worth,"456 Oak St, Fort Worth, TX",0.48
+124,Elizabeth,Lee,21,Female,456,67219,Unemployed,Fort Worth,"456 Oak St, Fort Worth, TX",0.48
+125,James,Miller,42,Male,734,102557,Self-employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.04
+126,William,Martinez,58,Male,435,36932,Self-employed,Coppell,"3030 Maple St, Coppell, TX",1.16
+127,David,Brown,66,Male,593,42369,Unemployed,Denton,"999 Magnolia Ave, Denton, TX",0.53
+128,Robert,Perez,54,Male,812,114908,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.07
+129,David,Davis,24,Male,630,97622,Unemployed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.27
+130,Linda,Lopez,47,Female,780,119034,Unemployed,Plano,"135 Maple St, Plano, TX",0.02
+131,James,Williams,62,Male,509,42837,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.93
+132,Richard,Lee,22,Male,438,63130,Self-employed,Plano,"135 Maple St, Plano, TX",0.81
+133,Karen,Brown,67,Female,435,34648,Employed,Frisco,"357 Cedar St, Frisco, TX",0.8
+134,Linda,Hernandez,65,Female,792,107595,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",0.1
+134,Linda,Hernandez,65,Female,761,107595,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",0.1
+135,Charles,Thomas,61,Male,546,109492,Employed,Grapevine,"468 Spruce St, Grapevine, TX",0.31
+136,Sarah,Moore,70,Female,499,80951,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.47
+137,Thomas,Perez,47,Male,615,102664,Employed,Grapevine,"468 Spruce St, Grapevine, TX",0.43
+138,Jennifer,Martinez,59,Female,661,76680,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.26
+139,Jennifer,Moore,68,Female,435,95775,Employed,Frisco,"357 Cedar St, Frisco, TX",0.44
+139,Jennifer,Moore,68,Female,566,95775,Employed,Frisco,"357 Cedar St, Frisco, TX",0.44
+140,Richard,Brown,44,Male,435,44223,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.76
+141,Michael,Martinez,67,Male,744,57018,Employed,Keller,"4040 Birch St, Keller, TX",0.3
+142,Patricia,Williams,54,Female,448,102851,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.51
+143,Michael,Lopez,48,Male,568,65661,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.74
+144,Elizabeth,Martinez,50,Female,542,101653,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.31
+145,Karen,Perez,34,Female,673,72898,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.36
+146,Charles,Smith,45,Male,587,70391,Unemployed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.74
+147,Richard,Rodriguez,65,Male,435,42448,Unemployed,Colleyville,"2020 Willow St, Colleyville, TX",1.27
+148,John,Hernandez,45,Male,522,33436,Unemployed,McKinney,"690 Ash St, McKinney, TX",1.01
+149,Sarah,Perez,42,Female,481,119383,Unemployed,Southlake,"801 Cherry St, Southlake, TX",0.35
+150,James,Martin,48,Male,838,76462,Self-employed,McKinney,"690 Ash St, McKinney, TX",0.17
+151,John,Williams,19,Male,766,66980,Employed,Frisco,"357 Cedar St, Frisco, TX",0.09
+152,David,Thomas,21,Male,774,89364,Unemployed,Fort Worth,"456 Oak St, Fort Worth, TX",0.01
+153,Joseph,Gonzalez,24,Male,462,109850,Employed,Frisco,"357 Cedar St, Frisco, TX",0.3
+154,Sarah,Thompson,48,Female,598,108772,Employed,Denton,"999 Magnolia Ave, Denton, TX",0.22
+155,Jessica,Rodriguez,20,Female,435,52746,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.71
+156,Charles,Martinez,54,Male,445,107800,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.37
+156,Charles,Martinez,54,Male,606,107800,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.37
+157,John,Jones,44,Male,784,89600,Employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.01
+158,Patricia,Williams,70,Female,755,88158,Self-employed,Richardson,"5050 Oak St, Richardson, TX",0
+159,Richard,Martin,43,Male,818,102928,Self-employed,Southlake,"801 Cherry St, Southlake, TX",0.15
+160,Charles,Hernandez,42,Male,536,65422,Employed,Frisco,"357 Cedar St, Frisco, TX",0.73
+161,Patricia,Thomas,62,Female,670,83015,Employed,Southlake,"801 Cherry St, Southlake, TX",0.3
+162,Mary,Anderson,19,Female,772,50111,Self-employed,Plano,"135 Maple St, Plano, TX",0.31
+163,Patricia,Wilson,66,Female,775,83420,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.01
+164,Thomas,Smith,52,Male,735,77699,Self-employed,Plano,"135 Maple St, Plano, TX",0.16
+165,Susan,Jackson,32,Female,586,100775,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.35
+166,Jessica,Garcia,33,Female,777,47975,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.26
+167,Thomas,Williams,31,Male,560,43666,Employed,Frisco,"357 Cedar St, Frisco, TX",1.12
+168,Sarah,Gonzalez,55,Female,554,41675,Employed,Colleyville,"2020 Willow St, Colleyville, TX",0.5
+169,Robert,Johnson,51,Male,481,36445,Employed,Southlake,"801 Cherry St, Southlake, TX",1.39
+170,James,Moore,36,Male,435,43649,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",1.06
+171,Mary,Jones,61,Female,474,33799,Self-employed,Coppell,"3030 Maple St, Coppell, TX",1.53
+172,Jessica,Jones,60,Female,487,94923,Self-employed,Richardson,"5050 Oak St, Richardson, TX",0.34
+173,Barbara,Lee,35,Female,435,30432,Self-employed,Coppell,"3030 Maple St, Coppell, TX",1.69
+174,Thomas,Davis,54,Male,734,89351,Unemployed,Southlake,"801 Cherry St, Southlake, TX",0.1
+175,Charles,Brown,58,Male,621,117429,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.22
+176,Charles,Lee,20,Male,585,54953,Self-employed,Dallas,"123 Elm St, Dallas, TX",0.64
+177,Susan,Smith,68,Female,536,83479,Unemployed,Keller,"4040 Birch St, Keller, TX",0.35
+178,Susan,Martin,56,Female,435,59409,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.79
+179,John,Brown,57,Male,820,43282,Unemployed,Irving,"246 Birch St, Irving, TX",0.24
+180,John,Williams,41,Male,529,80972,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.51
+181,Jennifer,Garcia,19,Female,535,57892,Unemployed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.62
+182,Thomas,Jones,37,Male,528,78193,Unemployed,Irving,"246 Birch St, Irving, TX",0.54
+182,Thomas,Jones,37,Male,560,78193,Unemployed,Irving,"246 Birch St, Irving, TX",0.54
+183,Linda,Thomas,69,Female,435,48500,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.7
+183,Linda,Thomas,69,Female,568,48500,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.7
+184,Sarah,Smith,66,Female,787,101420,Self-employed,Dallas,"123 Elm St, Dallas, TX",0.18
+185,David,Smith,35,Male,683,30370,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.85
+185,David,Smith,35,Male,688,30370,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.85
+186,Charles,Jackson,69,Male,813,69841,Unemployed,Southlake,"801 Cherry St, Southlake, TX",0.25
+187,Karen,Garcia,48,Female,722,109222,Employed,Grapevine,"468 Spruce St, Grapevine, TX",0.19
+188,Barbara,Davis,39,Female,435,51603,Self-employed,Arlington,"789 Pine St, Arlington, TX",0.74
+189,William,Jones,30,Male,435,70921,Unemployed,Denton,"999 Magnolia Ave, Denton, TX",0.53
+190,Joseph,Johnson,22,Male,843,109809,Unemployed,Dallas,"123 Elm St, Dallas, TX",0.01
+191,Patricia,Moore,54,Female,704,80787,Unemployed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.28
+192,Mary,Gonzalez,35,Female,839,89463,Unemployed,Plano,"135 Maple St, Plano, TX",0.05
+193,Jessica,Moore,47,Female,435,57137,Unemployed,Grapevine,"468 Spruce St, Grapevine, TX",0.76
+194,Elizabeth,Hernandez,65,Female,533,79281,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.66
+194,Elizabeth,Hernandez,65,Female,521,79281,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.66
+195,Susan,Moore,47,Female,701,67063,Unemployed,Frisco,"357 Cedar St, Frisco, TX",0.39
+196,Jennifer,Lopez,31,Female,605,41929,Self-employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.96
+197,Charles,Williams,49,Male,500,72084,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.38
+198,David,Lopez,37,Male,573,49021,Self-employed,Southlake,"801 Cherry St, Southlake, TX",0.67
+199,Richard,Perez,64,Male,682,70556,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.3
+200,Thomas,Smith,18,Male,771,66018,Self-employed,Dallas,"123 Elm St, Dallas, TX",0.06
+201,Robert,Jackson,34,Male,814,31435,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.11
+201,Robert,Jackson,34,Male,771,31435,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.11
+201,Robert,Jackson,34,Male,797,31435,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.11
+201,Robert,Jackson,34,Male,786,31435,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.11
+202,Barbara,Martin,55,Female,443,99728,Unemployed,Southlake,"801 Cherry St, Southlake, TX",0.48
+203,Richard,Lopez,51,Male,761,80731,Employed,Denton,"999 Magnolia Ave, Denton, TX",0.24
+204,Elizabeth,Hernandez,46,Female,591,99395,Employed,Irving,"246 Birch St, Irving, TX",0.23
+204,Elizabeth,Hernandez,46,Female,723,99395,Employed,Irving,"246 Birch St, Irving, TX",0.23
+205,Thomas,Thompson,63,Male,612,118418,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.39
+206,Robert,Johnson,19,Male,551,113245,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",0.18
+207,Linda,Lopez,56,Female,726,103828,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",0.12
+208,Mary,Martinez,68,Female,784,116352,Self-employed,Irving,"246 Birch St, Irving, TX",0.12
+209,Joseph,Thomas,65,Male,555,91552,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.3
+210,Patricia,Lopez,45,Female,467,84137,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.6
+211,James,Lee,38,Male,520,86235,Self-employed,Grapevine,"468 Spruce St, Grapevine, TX",0.54
+212,Patricia,Johnson,63,Female,823,78579,Unemployed,Irving,"246 Birch St, Irving, TX",0.15
+213,Mary,Johnson,49,Female,543,77624,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.59
+214,Linda,Wilson,70,Female,618,36720,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",1.02
+214,Linda,Wilson,70,Female,435,36720,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",1.02
+215,Linda,Johnson,66,Female,813,95908,Employed,Denton,"999 Magnolia Ave, Denton, TX",0.15
+216,Robert,Miller,22,Male,435,91332,Employed,Dallas,"123 Elm St, Dallas, TX",0.38
+217,Robert,Anderson,25,Male,801,98704,Unemployed,Grapevine,"468 Spruce St, Grapevine, TX",0.05
+217,Robert,Anderson,25,Male,733,98704,Unemployed,Grapevine,"468 Spruce St, Grapevine, TX",0.05
+218,James,Gonzalez,25,Male,807,113426,Self-employed,Southlake,"801 Cherry St, Southlake, TX",0.06
+219,Susan,Davis,30,Female,552,59547,Unemployed,Dallas,"123 Elm St, Dallas, TX",0.37
+220,Elizabeth,Thompson,63,Female,725,42629,Self-employed,Irving,"246 Birch St, Irving, TX",0.02
+220,Elizabeth,Thompson,63,Female,745,42629,Self-employed,Irving,"246 Birch St, Irving, TX",0.02
+221,Michael,Gonzalez,59,Male,528,36424,Unemployed,Plano,"135 Maple St, Plano, TX",0.94
+222,David,Hernandez,29,Male,435,71986,Employed,Arlington,"789 Pine St, Arlington, TX",0.74
+223,Patricia,Wilson,45,Female,576,118573,Unemployed,Irving,"246 Birch St, Irving, TX",0.37
+224,Barbara,Williams,66,Female,435,79526,Employed,Frisco,"357 Cedar St, Frisco, TX",0.49
+224,Barbara,Williams,66,Female,525,79526,Employed,Frisco,"357 Cedar St, Frisco, TX",0.49
+225,Thomas,Taylor,27,Male,732,43151,Self-employed,Dallas,"123 Elm St, Dallas, TX",0.03
+226,David,Martin,29,Male,530,99697,Self-employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.36
+227,Charles,Anderson,36,Male,562,98048,Employed,Arlington,"789 Pine St, Arlington, TX",0.36
+228,Jessica,Moore,31,Female,691,85666,Self-employed,Grapevine,"468 Spruce St, Grapevine, TX",0.28
+229,Joseph,Taylor,51,Male,528,78661,Self-employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.53
+230,Susan,Jones,28,Female,474,52383,Employed,McKinney,"690 Ash St, McKinney, TX",0.87
+231,James,Hernandez,32,Male,582,104529,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.44
+232,David,Garcia,53,Male,583,51634,Employed,Colleyville,"2020 Willow St, Colleyville, TX",0.76
+233,Michael,Davis,70,Male,606,90136,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.45
+234,Karen,Hernandez,50,Female,811,50855,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.19
+235,William,Martinez,69,Male,600,33983,Employed,Dallas,"123 Elm St, Dallas, TX",1.36
+236,James,Williams,45,Male,435,67703,Self-employed,Dallas,"123 Elm St, Dallas, TX",0.79
+236,James,Williams,45,Male,620,67703,Self-employed,Dallas,"123 Elm St, Dallas, TX",0.79
+237,Jessica,Martinez,25,Female,556,69709,Unemployed,Keller,"4040 Birch St, Keller, TX",0.34
+238,Jessica,Thomas,56,Female,473,49169,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.87
+238,Jessica,Thomas,56,Female,471,49169,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.87
+239,Robert,Rodriguez,63,Male,706,44640,Employed,Southlake,"801 Cherry St, Southlake, TX",0.6
+240,Sarah,Brown,33,Female,803,96481,Unemployed,Southlake,"801 Cherry St, Southlake, TX",0.13
+241,Thomas,Perez,32,Male,826,30848,Unemployed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.26
+242,Mary,Johnson,30,Female,704,58856,Employed,Grapevine,"468 Spruce St, Grapevine, TX",0.45
+243,David,Martin,32,Male,528,37640,Unemployed,Fort Worth,"456 Oak St, Fort Worth, TX",0.73
+244,Michael,Williams,54,Male,582,43189,Unemployed,Dallas,"123 Elm St, Dallas, TX",0.52
+245,Sarah,Williams,47,Female,827,84522,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.02
+246,James,Taylor,60,Male,553,82330,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.39
+247,Robert,Jackson,43,Male,796,86593,Employed,Southlake,"801 Cherry St, Southlake, TX",0.04
+248,John,Gonzalez,44,Male,612,97629,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.3
+249,Patricia,Wilson,25,Female,460,82246,Self-employed,Keller,"4040 Birch St, Keller, TX",0.5
+250,Mary,Gonzalez,24,Female,508,92689,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.37
+251,Robert,Davis,59,Male,726,119702,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.07
+252,Linda,Williams,53,Female,588,91065,Self-employed,Plano,"135 Maple St, Plano, TX",0.45
+252,Linda,Williams,53,Female,614,91065,Self-employed,Plano,"135 Maple St, Plano, TX",0.45
+253,Michael,Rodriguez,35,Male,551,94261,Employed,Southlake,"801 Cherry St, Southlake, TX",0.58
+253,Michael,Rodriguez,35,Male,462,94261,Employed,Southlake,"801 Cherry St, Southlake, TX",0.58
+254,Barbara,Thomas,29,Female,828,56794,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.22
+254,Barbara,Thomas,29,Female,760,56794,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.22
+255,Charles,Moore,19,Male,568,47143,Self-employed,Grapevine,"468 Spruce St, Grapevine, TX",0.43
+256,Michael,Martin,27,Male,642,116416,Self-employed,Irving,"246 Birch St, Irving, TX",0.23
+257,Robert,Taylor,39,Male,837,35785,Employed,Frisco,"357 Cedar St, Frisco, TX",0.33
+258,Thomas,Thompson,19,Male,435,68030,Unemployed,Frisco,"357 Cedar St, Frisco, TX",0.49
+259,David,Wilson,64,Male,797,96413,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.18
+259,David,Wilson,64,Male,741,96413,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.18
+260,Charles,Rodriguez,70,Male,552,103533,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.25
+260,Charles,Rodriguez,70,Male,676,103533,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.25
+261,Robert,Wilson,35,Male,778,58853,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.19
+262,Karen,Jones,67,Female,785,95617,Self-employed,McKinney,"690 Ash St, McKinney, TX",0.04
+263,Susan,Thomas,44,Female,774,90957,Employed,Keller,"4040 Birch St, Keller, TX",0.11
+264,Charles,Garcia,69,Male,699,42316,Employed,Frisco,"357 Cedar St, Frisco, TX",0.53
+265,Joseph,Williams,42,Male,781,42772,Employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.14
+266,Sarah,Martin,35,Female,613,50978,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.97
+267,Linda,Rodriguez,61,Female,479,99810,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.46
+268,David,Moore,20,Male,577,33670,Self-employed,Plano,"135 Maple St, Plano, TX",1.46
+269,William,Wilson,53,Male,667,101861,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.21
+270,Joseph,Jackson,28,Male,530,106731,Unemployed,Plano,"135 Maple St, Plano, TX",0.36
+271,James,Martin,23,Male,435,35947,Employed,Southlake,"801 Cherry St, Southlake, TX",1.24
+272,Barbara,Thompson,34,Female,473,89379,Unemployed,Colleyville,"2020 Willow St, Colleyville, TX",0.39
+273,Patricia,Jackson,27,Female,593,109280,Employed,Denton,"999 Magnolia Ave, Denton, TX",0.23
+274,Robert,Anderson,56,Male,801,116648,Self-employed,Arlington,"789 Pine St, Arlington, TX",0
+275,William,Anderson,64,Male,435,63848,Unemployed,Colleyville,"2020 Willow St, Colleyville, TX",0.84
+275,William,Anderson,64,Male,534,63848,Unemployed,Colleyville,"2020 Willow St, Colleyville, TX",0.84
+276,Elizabeth,Smith,64,Female,760,50929,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0.03
+277,Jennifer,Perez,61,Female,801,64664,Unemployed,Colleyville,"2020 Willow St, Colleyville, TX",0.07
+278,James,Martin,21,Male,599,62647,Unemployed,Colleyville,"2020 Willow St, Colleyville, TX",0.54
+279,Michael,Miller,19,Male,745,94453,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.1
+280,David,Jones,30,Male,804,73151,Self-employed,Keller,"4040 Birch St, Keller, TX",0.11
+280,David,Jones,30,Male,797,73151,Self-employed,Keller,"4040 Birch St, Keller, TX",0.11
+281,James,Taylor,47,Male,761,65817,Unemployed,Southlake,"801 Cherry St, Southlake, TX",0.12
+281,James,Taylor,47,Male,832,65817,Unemployed,Southlake,"801 Cherry St, Southlake, TX",0.12
+282,Charles,Davis,67,Male,769,106084,Employed,Denton,"999 Magnolia Ave, Denton, TX",0.14
+283,Sarah,Davis,22,Female,520,69200,Self-employed,Southlake,"801 Cherry St, Southlake, TX",0.71
+284,John,Smith,23,Male,576,98514,Employed,Coppell,"3030 Maple St, Coppell, TX",0.27
+284,John,Smith,23,Male,722,98514,Employed,Coppell,"3030 Maple St, Coppell, TX",0.27
+285,Jennifer,Lee,54,Female,435,52579,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",1.04
+286,Joseph,Wilson,65,Male,583,100848,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.24
+287,Linda,Martinez,67,Female,646,48586,Unemployed,Fort Worth,"456 Oak St, Fort Worth, TX",0.43
+288,Elizabeth,Brown,29,Female,767,56068,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0.01
+288,Elizabeth,Brown,29,Female,791,56068,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0.01
+289,David,Anderson,22,Male,624,61098,Unemployed,Irving,"246 Birch St, Irving, TX",0.65
+290,Linda,Smith,27,Female,779,102536,Self-employed,Irving,"246 Birch St, Irving, TX",0.19
+291,David,Moore,63,Male,782,97857,Unemployed,Dallas,"123 Elm St, Dallas, TX",0.2
+292,Jennifer,Jones,48,Female,755,105716,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.14
+293,Thomas,Martinez,44,Male,727,97896,Unemployed,Irving,"246 Birch St, Irving, TX",0.14
+294,Linda,Davis,66,Female,435,40400,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",1.29
+295,Sarah,Rodriguez,46,Female,779,43553,Unemployed,Dallas,"123 Elm St, Dallas, TX",0.41
+296,John,Taylor,26,Male,772,95873,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.05
+297,William,Moore,66,Male,621,47124,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",1.15
+298,Mary,Wilson,25,Female,435,89742,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.46
+299,Barbara,Johnson,29,Female,840,91804,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.19
+300,Jessica,Johnson,58,Female,528,66016,Employed,Southlake,"801 Cherry St, Southlake, TX",0.61
+301,John,Brown,23,Male,582,30739,Employed,McKinney,"690 Ash St, McKinney, TX",0.95
+302,Mary,Anderson,44,Female,606,43728,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",0.97
+302,Mary,Anderson,44,Female,609,43728,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",0.97
+303,Linda,Thomas,31,Female,840,68158,Self-employed,McKinney,"690 Ash St, McKinney, TX",0.03
+304,Richard,Miller,20,Male,612,116589,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.19
+305,Thomas,Thomas,52,Male,504,104140,Self-employed,Keller,"4040 Birch St, Keller, TX",0.42
+306,William,Lopez,59,Male,532,34267,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.91
+307,Elizabeth,Hernandez,34,Female,747,108945,Unemployed,Colleyville,"2020 Willow St, Colleyville, TX",0.17
+308,Sarah,Miller,66,Female,531,112098,Unemployed,Denton,"999 Magnolia Ave, Denton, TX",0.43
+309,Richard,Moore,69,Male,800,90206,Employed,Frisco,"357 Cedar St, Frisco, TX",0.11
+310,John,Williams,64,Male,589,89500,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0.32
+311,Joseph,Martinez,46,Male,810,52344,Self-employed,Arlington,"789 Pine St, Arlington, TX",0.2
+311,Joseph,Martinez,46,Male,732,52344,Self-employed,Arlington,"789 Pine St, Arlington, TX",0.2
+312,Linda,Miller,65,Female,813,48853,Self-employed,Dallas,"123 Elm St, Dallas, TX",0.27
+313,Joseph,Thomas,62,Male,599,73010,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.29
+314,Jessica,Lopez,55,Female,435,38977,Self-employed,Keller,"4040 Birch St, Keller, TX",0.71
+315,David,Thomas,31,Male,744,50623,Employed,Frisco,"357 Cedar St, Frisco, TX",0.36
+316,James,Johnson,67,Male,625,112627,Self-employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.29
+317,John,Martinez,31,Male,527,39557,Employed,McKinney,"690 Ash St, McKinney, TX",0.82
+318,Richard,Wilson,56,Male,500,59426,Self-employed,Arlington,"789 Pine St, Arlington, TX",0.54
+319,Jennifer,Smith,27,Female,766,49549,Employed,Plano,"135 Maple St, Plano, TX",0.37
+320,Karen,Miller,23,Female,526,109717,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0.38
+321,Mary,Jones,37,Female,524,78248,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",0.67
+322,Patricia,Brown,18,Female,600,44998,Employed,McKinney,"690 Ash St, McKinney, TX",0.57
+322,Patricia,Brown,18,Female,686,44998,Employed,McKinney,"690 Ash St, McKinney, TX",0.57
+323,Mary,Garcia,43,Female,836,35330,Self-employed,Arlington,"789 Pine St, Arlington, TX",0.55
+324,Robert,Davis,25,Male,525,54071,Employed,Frisco,"357 Cedar St, Frisco, TX",0.77
+325,Barbara,Smith,67,Female,528,105953,Employed,Irving,"246 Birch St, Irving, TX",0.52
+326,Richard,Moore,25,Male,541,51530,Unemployed,Grapevine,"468 Spruce St, Grapevine, TX",0.63
+327,Robert,Jones,56,Male,797,92200,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.11
+328,Patricia,Rodriguez,66,Female,824,87988,Self-employed,Southlake,"801 Cherry St, Southlake, TX",0.15
+328,Patricia,Rodriguez,66,Female,759,87988,Self-employed,Southlake,"801 Cherry St, Southlake, TX",0.15
+329,Jessica,Taylor,70,Female,716,45469,Unemployed,Colleyville,"2020 Willow St, Colleyville, TX",0.59
+330,Richard,Lopez,58,Male,463,92490,Employed,Denton,"999 Magnolia Ave, Denton, TX",0.57
+330,Richard,Lopez,58,Male,455,92490,Employed,Denton,"999 Magnolia Ave, Denton, TX",0.57
+331,James,Martin,65,Male,592,62444,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.48
+332,James,Jackson,44,Male,797,73251,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.25
+332,James,Jackson,44,Male,826,73251,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.25
+333,Jessica,Johnson,33,Female,435,115615,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.3
+334,Karen,Martin,32,Female,731,52099,Employed,Irving,"246 Birch St, Irving, TX",0.22
+334,Karen,Martin,32,Female,823,52099,Employed,Irving,"246 Birch St, Irving, TX",0.22
+335,Susan,Smith,59,Female,629,110462,Self-employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.32
+336,Joseph,Smith,69,Male,624,34754,Unemployed,Denton,"999 Magnolia Ave, Denton, TX",1.38
+337,Karen,Perez,26,Female,537,74153,Self-employed,Keller,"4040 Birch St, Keller, TX",0.41
+338,Jennifer,Martin,44,Female,543,81808,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.51
+338,Jennifer,Martin,44,Female,435,81808,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.51
+339,Mary,Wilson,47,Female,538,106123,Unemployed,Frisco,"357 Cedar St, Frisco, TX",0.32
+340,Patricia,Wilson,31,Female,741,57428,Self-employed,Southlake,"801 Cherry St, Southlake, TX",0.13
+341,John,Taylor,44,Male,703,94870,Self-employed,Arlington,"789 Pine St, Arlington, TX",0.24
+341,John,Taylor,44,Male,550,94870,Self-employed,Arlington,"789 Pine St, Arlington, TX",0.24
+342,Barbara,Martinez,41,Female,534,94916,Unemployed,Frisco,"357 Cedar St, Frisco, TX",0.47
+342,Barbara,Martinez,41,Female,451,94916,Unemployed,Frisco,"357 Cedar St, Frisco, TX",0.47
+343,Karen,Williams,67,Female,565,35612,Self-employed,Richardson,"5050 Oak St, Richardson, TX",0.63
+344,Susan,Smith,63,Female,559,80834,Unemployed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.4
+345,Michael,Davis,23,Male,435,59233,Employed,Grapevine,"468 Spruce St, Grapevine, TX",0.5
+346,Mary,Jackson,57,Female,676,118687,Self-employed,Southlake,"801 Cherry St, Southlake, TX",0.17
+347,William,Anderson,44,Male,487,93719,Unemployed,Richardson,"5050 Oak St, Richardson, TX",0.47
+348,Karen,Martin,43,Female,739,41106,Self-employed,Irving,"246 Birch St, Irving, TX",0.08
+349,Susan,Perez,37,Female,572,54391,Employed,Grapevine,"468 Spruce St, Grapevine, TX",0.74
+350,William,Williams,53,Male,819,66560,Employed,Colleyville,"2020 Willow St, Colleyville, TX",0.11
+351,Patricia,Martin,67,Female,824,105841,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.15
+352,Susan,Garcia,46,Female,435,114056,Unemployed,Denton,"999 Magnolia Ave, Denton, TX",0.48
+353,Jessica,Wilson,24,Female,757,77376,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.25
+354,Richard,Gonzalez,63,Male,810,36445,Employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0
+354,Richard,Gonzalez,63,Male,822,36445,Employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0
+355,William,Martinez,26,Male,435,85679,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.54
+356,Joseph,Davis,38,Male,579,62933,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.76
+357,Mary,Davis,50,Female,738,112354,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.05
+358,Joseph,Davis,47,Male,592,63996,Self-employed,Grapevine,"468 Spruce St, Grapevine, TX",0.32
+358,Joseph,Davis,47,Male,721,63996,Self-employed,Grapevine,"468 Spruce St, Grapevine, TX",0.32
+359,Linda,Brown,55,Female,435,104756,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.43
+359,Linda,Brown,55,Female,513,104756,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.43
+360,Mary,Lopez,39,Female,679,51427,Unemployed,Frisco,"357 Cedar St, Frisco, TX",0.52
+361,James,Williams,45,Male,555,94552,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.55
+362,William,Lopez,42,Male,595,58558,Unemployed,Plano,"135 Maple St, Plano, TX",0.74
+363,Patricia,Lee,65,Female,805,74273,Employed,Richardson,"5050 Oak St, Richardson, TX",0.13
+364,Robert,Rodriguez,63,Male,843,110266,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.11
+365,Jessica,Taylor,69,Female,456,103115,Employed,Plano,"135 Maple St, Plano, TX",0.37
+366,Patricia,Jackson,43,Female,474,66174,Employed,Arlington,"789 Pine St, Arlington, TX",0.63
+367,Robert,Jackson,38,Male,805,34966,Unemployed,Fort Worth,"456 Oak St, Fort Worth, TX",0.31
+368,Robert,Garcia,38,Male,612,68285,Employed,Coppell,"3030 Maple St, Coppell, TX",0.67
+368,Robert,Garcia,38,Male,528,68285,Employed,Coppell,"3030 Maple St, Coppell, TX",0.67
+369,Karen,Brown,23,Female,601,116742,Unemployed,Fort Worth,"456 Oak St, Fort Worth, TX",0.17
+369,Karen,Brown,23,Female,636,116742,Unemployed,Fort Worth,"456 Oak St, Fort Worth, TX",0.17
+370,James,Jones,44,Male,743,69965,Employed,Colleyville,"2020 Willow St, Colleyville, TX",0.21
+371,William,Wilson,25,Male,839,104702,Employed,Coppell,"3030 Maple St, Coppell, TX",0.13
+372,Mary,Moore,32,Female,791,53722,Unemployed,Keller,"4040 Birch St, Keller, TX",0.27
+372,Mary,Moore,32,Female,739,53722,Unemployed,Keller,"4040 Birch St, Keller, TX",0.27
+373,Robert,Thomas,55,Male,488,47611,Employed,Dallas,"123 Elm St, Dallas, TX",0.77
+374,Linda,Jones,20,Female,834,53771,Employed,Frisco,"357 Cedar St, Frisco, TX",0.33
+375,William,Moore,46,Male,794,37278,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.09
+375,William,Moore,46,Male,826,37278,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.09
+376,Joseph,Lopez,27,Male,797,66535,Self-employed,Arlington,"789 Pine St, Arlington, TX",0.08
+376,Joseph,Lopez,27,Male,730,66535,Self-employed,Arlington,"789 Pine St, Arlington, TX",0.08
+377,Robert,Moore,37,Male,792,45101,Self-employed,Grapevine,"468 Spruce St, Grapevine, TX",0.12
+378,Richard,Moore,58,Male,520,80306,Employed,Arlington,"789 Pine St, Arlington, TX",0.43
+379,Karen,Hernandez,36,Female,843,119753,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.11
+380,Richard,Perez,40,Male,771,113584,Unemployed,Colleyville,"2020 Willow St, Colleyville, TX",0.16
+381,Barbara,Gonzalez,67,Female,761,49807,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.26
+382,John,Anderson,24,Male,555,95720,Self-employed,Arlington,"789 Pine St, Arlington, TX",0.35
+383,Michael,Anderson,31,Male,830,70046,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.02
+384,Karen,Martin,66,Female,819,74742,Unemployed,Grapevine,"468 Spruce St, Grapevine, TX",0.24
+385,Susan,Anderson,33,Female,534,100610,Unemployed,Denton,"999 Magnolia Ave, Denton, TX",0.52
+386,Charles,Brown,39,Male,807,61318,Unemployed,Plano,"135 Maple St, Plano, TX",0.15
+387,David,Johnson,54,Male,797,62511,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0.31
+388,Barbara,Hernandez,49,Female,456,108587,Self-employed,Irving,"246 Birch St, Irving, TX",0.46
+389,Jennifer,Miller,49,Female,809,81917,Unemployed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.13
+390,Jessica,Miller,58,Female,618,36462,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",1.22
+390,Jessica,Miller,58,Female,435,36462,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",1.22
+391,John,Johnson,65,Male,831,83203,Self-employed,McKinney,"690 Ash St, McKinney, TX",0.19
+392,Mary,Lopez,44,Female,633,77263,Self-employed,Irving,"246 Birch St, Irving, TX",0.29
+393,Patricia,Davis,63,Female,773,34983,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.09
+393,Patricia,Davis,63,Female,760,34983,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.09
+394,Sarah,Hernandez,25,Female,512,103628,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",0.29
+395,Richard,Johnson,65,Male,831,89707,Employed,Coppell,"3030 Maple St, Coppell, TX",0.15
+396,Elizabeth,Martin,47,Female,799,92968,Unemployed,Frisco,"357 Cedar St, Frisco, TX",0.02
+397,Barbara,Johnson,40,Female,503,59011,Self-employed,Richardson,"5050 Oak St, Richardson, TX",0.65
+398,Jennifer,Martin,57,Female,435,72344,Unemployed,Richardson,"5050 Oak St, Richardson, TX",0.53
+398,Jennifer,Martin,57,Female,552,72344,Unemployed,Richardson,"5050 Oak St, Richardson, TX",0.53
+398,Jennifer,Martin,57,Female,529,72344,Unemployed,Richardson,"5050 Oak St, Richardson, TX",0.53
+399,Linda,Martin,46,Female,561,119689,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0.2
+399,Linda,Martin,46,Female,687,119689,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0.2
+400,Barbara,Anderson,35,Female,736,107807,Unemployed,Irving,"246 Birch St, Irving, TX",0.15
+400,Barbara,Anderson,35,Female,730,107807,Unemployed,Irving,"246 Birch St, Irving, TX",0.15
+401,William,Lopez,22,Male,527,33869,Employed,Grapevine,"468 Spruce St, Grapevine, TX",0.97
+402,Elizabeth,Hernandez,33,Female,518,94284,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.46
+403,Karen,Gonzalez,53,Female,567,55652,Unemployed,Richardson,"5050 Oak St, Richardson, TX",0.39
+404,Michael,Jackson,38,Male,435,94810,Employed,Coppell,"3030 Maple St, Coppell, TX",0.35
+405,Robert,Lee,64,Male,555,66564,Employed,Colleyville,"2020 Willow St, Colleyville, TX",0.46
+406,John,Hernandez,51,Male,435,35393,Unemployed,Arlington,"789 Pine St, Arlington, TX",1.27
+407,Elizabeth,Jackson,32,Female,795,74711,Employed,Irving,"246 Birch St, Irving, TX",0.18
+408,Sarah,Anderson,59,Female,442,64274,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.51
+409,Michael,Davis,50,Male,476,45920,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.81
+410,Sarah,Hernandez,26,Female,811,110086,Self-employed,McKinney,"690 Ash St, McKinney, TX",0.04
+411,David,Brown,42,Male,493,37213,Unemployed,Fort Worth,"456 Oak St, Fort Worth, TX",1.01
+412,Jennifer,Johnson,26,Female,527,63914,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.76
+412,Jennifer,Johnson,26,Female,435,63914,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.76
+413,Mary,Williams,28,Female,845,92998,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.1
+414,Barbara,Lee,26,Female,540,58903,Unemployed,Irving,"246 Birch St, Irving, TX",0.72
+415,John,Davis,57,Male,538,52014,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.79
+416,Susan,Taylor,43,Female,503,45708,Employed,Irving,"246 Birch St, Irving, TX",0.86
+417,Barbara,Lopez,60,Female,628,47729,Self-employed,Keller,"4040 Birch St, Keller, TX",0.9
+417,Barbara,Lopez,60,Female,439,47729,Self-employed,Keller,"4040 Birch St, Keller, TX",0.9
+418,Linda,Brown,23,Female,673,31365,Employed,Arlington,"789 Pine St, Arlington, TX",0.73
+419,David,Garcia,65,Male,845,93298,Self-employed,Grapevine,"468 Spruce St, Grapevine, TX",0.11
+420,Elizabeth,Hernandez,32,Female,648,109392,Employed,Richardson,"5050 Oak St, Richardson, TX",0.24
+421,Richard,Hernandez,28,Male,629,114402,Unemployed,Plano,"135 Maple St, Plano, TX",0.48
+422,Susan,Gonzalez,36,Female,555,86227,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.36
+422,Susan,Gonzalez,36,Female,544,86227,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.36
+423,Sarah,Brown,61,Female,604,56613,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.67
+424,David,Rodriguez,52,Male,845,48583,Self-employed,Dallas,"123 Elm St, Dallas, TX",0.35
+425,Charles,Miller,38,Male,435,46371,Employed,Dallas,"123 Elm St, Dallas, TX",0.95
+425,Charles,Miller,38,Male,522,46371,Employed,Dallas,"123 Elm St, Dallas, TX",0.95
+426,Jessica,Martinez,48,Female,724,32170,Self-employed,McKinney,"690 Ash St, McKinney, TX",0.69
+427,James,Davis,23,Male,539,81282,Employed,Plano,"135 Maple St, Plano, TX",0.55
+428,Karen,Wilson,24,Female,752,67990,Self-employed,Richardson,"5050 Oak St, Richardson, TX",0.06
+429,Joseph,Jackson,55,Male,567,112009,Unemployed,Frisco,"357 Cedar St, Frisco, TX",0.46
+430,Richard,Anderson,46,Male,497,88094,Unemployed,Dallas,"123 Elm St, Dallas, TX",0.36
+431,Charles,Johnson,21,Male,451,33185,Unemployed,Keller,"4040 Birch St, Keller, TX",0.93
+431,Charles,Johnson,21,Male,482,33185,Unemployed,Keller,"4040 Birch St, Keller, TX",0.93
+432,Robert,Williams,47,Male,542,38347,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.78
+433,Linda,Thomas,58,Female,841,65081,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.24
+434,Jennifer,Miller,58,Female,651,107939,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.25
+435,Jessica,Taylor,46,Female,488,97409,Employed,Arlington,"789 Pine St, Arlington, TX",0.54
+435,Jessica,Taylor,46,Female,435,97409,Employed,Arlington,"789 Pine St, Arlington, TX",0.54
+436,David,Thomas,54,Male,802,42683,Employed,Irving,"246 Birch St, Irving, TX",0.28
+437,Mary,Lee,24,Female,435,51568,Employed,Coppell,"3030 Maple St, Coppell, TX",0.62
+438,Elizabeth,Lee,64,Female,797,65063,Employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.23
+439,Charles,Davis,36,Male,559,49961,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.79
+440,David,Wilson,39,Male,435,47700,Unemployed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.9
+441,William,Brown,23,Male,842,38211,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.43
+442,David,Rodriguez,60,Male,797,115701,Employed,Dallas,"123 Elm St, Dallas, TX",0.14
+443,Mary,Thompson,48,Female,732,111598,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.14
+444,David,Taylor,27,Male,627,61940,Unemployed,Irving,"246 Birch St, Irving, TX",0.33
+445,Karen,Martinez,59,Female,451,84441,Employed,Coppell,"3030 Maple St, Coppell, TX",0.56
+446,Mary,Wilson,46,Female,508,49088,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.72
+447,Linda,Perez,70,Female,435,111541,Self-employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.37
+448,James,Davis,24,Male,602,56720,Self-employed,McKinney,"690 Ash St, McKinney, TX",0.67
+449,Patricia,Rodriguez,46,Female,729,59827,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.17
+449,Patricia,Rodriguez,46,Female,776,59827,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.17
+450,Barbara,Jackson,39,Female,581,47800,Unemployed,Irving,"246 Birch St, Irving, TX",0.86
+450,Barbara,Jackson,39,Female,528,47800,Unemployed,Irving,"246 Birch St, Irving, TX",0.86
+451,Linda,Jackson,59,Female,636,84078,Unemployed,Irving,"246 Birch St, Irving, TX",0.28
+452,Michael,Thomas,49,Male,729,31193,Employed,Dallas,"123 Elm St, Dallas, TX",0.24
+453,Jennifer,Martin,64,Female,544,72826,Self-employed,Grapevine,"468 Spruce St, Grapevine, TX",0.28
+454,William,Taylor,56,Male,741,87446,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.19
+455,Jennifer,Thomas,24,Female,435,39820,Employed,Lewisville,"579 Walnut St, Lewisville, TX",1.07
+456,Richard,Gonzalez,40,Male,487,78223,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.45
+457,James,Anderson,26,Male,545,96443,Self-employed,Keller,"4040 Birch St, Keller, TX",0.55
+458,Richard,Martinez,41,Male,731,75639,Employed,Southlake,"801 Cherry St, Southlake, TX",0.14
+459,Jessica,Rodriguez,58,Female,782,110759,Employed,Dallas,"123 Elm St, Dallas, TX",0.18
+460,Karen,Rodriguez,36,Female,644,63865,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.35
+461,Jessica,Jones,36,Female,733,81032,Employed,Plano,"135 Maple St, Plano, TX",0.16
+462,Joseph,Jones,49,Male,533,65560,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.59
+462,Joseph,Jones,49,Male,551,65560,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.59
+463,John,Perez,65,Male,435,88593,Self-employed,Grapevine,"468 Spruce St, Grapevine, TX",0.42
+464,Michael,Lopez,29,Male,838,91243,Unemployed,Southlake,"801 Cherry St, Southlake, TX",0.12
+465,Jessica,Garcia,51,Female,832,116734,Unemployed,Plano,"135 Maple St, Plano, TX",0.08
+465,Jessica,Garcia,51,Female,769,116734,Unemployed,Plano,"135 Maple St, Plano, TX",0.08
+466,Charles,Brown,56,Male,435,77085,Self-employed,Grapevine,"468 Spruce St, Grapevine, TX",0.54
+467,Barbara,Johnson,55,Female,590,74559,Unemployed,Denton,"999 Magnolia Ave, Denton, TX",0.68
+468,Charles,Martin,43,Male,804,104756,Unemployed,Fort Worth,"456 Oak St, Fort Worth, TX",0.05
+469,Charles,Williams,45,Male,710,93382,Self-employed,Richardson,"5050 Oak St, Richardson, TX",0.23
+470,Jennifer,Moore,43,Female,618,31716,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",1.24
+471,Thomas,Martin,30,Male,776,77170,Self-employed,McKinney,"690 Ash St, McKinney, TX",0.03
+472,Patricia,Lee,32,Female,576,115831,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.23
+472,Patricia,Lee,32,Female,618,115831,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.23
+473,Richard,Smith,57,Male,435,37533,Employed,Richardson,"5050 Oak St, Richardson, TX",1.16
+474,James,Davis,63,Male,787,56952,Employed,McKinney,"690 Ash St, McKinney, TX",0.25
+475,Patricia,Moore,41,Female,435,38527,Self-employed,Grapevine,"468 Spruce St, Grapevine, TX",0.98
+476,Jennifer,Brown,54,Female,815,44809,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",0.12
+477,Linda,Rodriguez,28,Female,603,104969,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.21
+478,Jennifer,Brown,18,Female,435,51395,Self-employed,Richardson,"5050 Oak St, Richardson, TX",0.79
+479,Karen,Martin,29,Female,515,70766,Employed,Irving,"246 Birch St, Irving, TX",0.71
+480,Robert,Moore,60,Male,435,38989,Employed,Dallas,"123 Elm St, Dallas, TX",1.22
+481,Joseph,Jackson,35,Male,645,41133,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.62
+481,Joseph,Jackson,35,Male,591,41133,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.62
+482,Jessica,Brown,40,Female,435,52627,Employed,Frisco,"357 Cedar St, Frisco, TX",0.82
+483,Thomas,Hernandez,46,Male,731,62282,Self-employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.09
+484,Patricia,Martinez,48,Female,562,41111,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",1.07
+484,Patricia,Martinez,48,Female,482,41111,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",1.07
+485,Thomas,Thomas,38,Male,482,59951,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.62
+486,Thomas,Garcia,30,Male,613,37752,Unemployed,Flower Mound,"1010 Elm St, Flower Mound, TX",1.27
+487,William,Hernandez,39,Male,838,112175,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.1
+488,Susan,Miller,39,Female,550,119955,Employed,Dallas,"123 Elm St, Dallas, TX",0.22
+489,John,Moore,18,Male,827,69538,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.05
+490,John,Hernandez,50,Male,435,95198,Employed,Coppell,"3030 Maple St, Coppell, TX",0.5
+491,Charles,Gonzalez,65,Male,836,88890,Self-employed,Arlington,"789 Pine St, Arlington, TX",0.07
+492,David,Davis,45,Male,556,46074,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.5
+492,David,Davis,45,Male,559,46074,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.5
+493,Mary,Jackson,37,Female,831,61231,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0.03
+494,Thomas,Hernandez,57,Male,435,117391,Unemployed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.29
+495,Sarah,Martin,57,Female,496,59659,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.85
+496,Elizabeth,Rodriguez,51,Female,777,31677,Unemployed,Colleyville,"2020 Willow St, Colleyville, TX",0.16
+497,Jessica,Perez,65,Female,536,51454,Unemployed,Fort Worth,"456 Oak St, Fort Worth, TX",1.01
+498,Sarah,Thompson,46,Female,778,101685,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.14
+499,James,Hernandez,67,Male,435,54983,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0.67
+500,Barbara,Miller,25,Female,665,101271,Employed,Irving,"246 Birch St, Irving, TX",0.24
+501,Jennifer,Rodriguez,36,Female,554,45409,Employed,Dallas,"123 Elm St, Dallas, TX",0.64
+502,William,Gonzalez,46,Male,772,80533,Self-employed,Plano,"135 Maple St, Plano, TX",0.22
+503,Richard,Thompson,53,Male,812,48293,Unemployed,Dallas,"123 Elm St, Dallas, TX",0.35
+504,David,Jackson,31,Male,567,86248,Self-employed,Keller,"4040 Birch St, Keller, TX",0.53
+505,Elizabeth,Jackson,19,Female,485,94939,Self-employed,McKinney,"690 Ash St, McKinney, TX",0.51
+505,Elizabeth,Jackson,19,Female,564,94939,Self-employed,McKinney,"690 Ash St, McKinney, TX",0.51
+506,Mary,Brown,67,Female,751,99784,Employed,Richardson,"5050 Oak St, Richardson, TX",0.03
+507,David,Garcia,60,Male,435,115329,Employed,McKinney,"690 Ash St, McKinney, TX",0.47
+507,David,Garcia,60,Male,485,115329,Employed,McKinney,"690 Ash St, McKinney, TX",0.47
+508,David,Anderson,35,Male,465,92997,Unemployed,Irving,"246 Birch St, Irving, TX",0.35
+509,Charles,Lee,53,Male,775,118030,Employed,Colleyville,"2020 Willow St, Colleyville, TX",0.11
+510,Elizabeth,Gonzalez,69,Female,438,75119,Employed,Plano,"135 Maple St, Plano, TX",0.51
+511,William,Williams,44,Male,740,84617,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.2
+512,William,Martin,47,Male,649,119381,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.22
+512,William,Martin,47,Male,642,119381,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.22
+513,Elizabeth,Martin,34,Female,478,114913,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.39
+514,Jessica,Miller,63,Female,445,117208,Unemployed,Frisco,"357 Cedar St, Frisco, TX",0.28
+515,Barbara,Moore,32,Female,651,100129,Unemployed,Fort Worth,"456 Oak St, Fort Worth, TX",0.24
+515,Barbara,Moore,32,Female,620,100129,Unemployed,Fort Worth,"456 Oak St, Fort Worth, TX",0.24
+516,Sarah,Miller,27,Female,547,106138,Employed,Frisco,"357 Cedar St, Frisco, TX",0.19
+517,James,Lee,68,Male,598,86543,Unemployed,Keller,"4040 Birch St, Keller, TX",0.39
+518,James,Brown,25,Male,537,105040,Self-employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.26
+518,James,Brown,25,Male,545,105040,Self-employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.26
+518,James,Brown,25,Male,485,105040,Self-employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.26
+519,Robert,Hernandez,39,Male,818,69105,Self-employed,Keller,"4040 Birch St, Keller, TX",0.2
+520,Richard,Perez,28,Male,540,35241,Unemployed,Grapevine,"468 Spruce St, Grapevine, TX",0.9
+521,David,Garcia,42,Male,544,112293,Unemployed,Richardson,"5050 Oak St, Richardson, TX",0.24
+522,Charles,Hernandez,56,Male,467,30833,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",1.23
+523,Joseph,Rodriguez,61,Male,712,85332,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",0.29
+524,Susan,Smith,42,Female,520,44074,Unemployed,Keller,"4040 Birch St, Keller, TX",1.25
+525,Joseph,Johnson,62,Male,459,32073,Employed,McKinney,"690 Ash St, McKinney, TX",1.28
+526,Jennifer,Lopez,25,Female,837,107772,Employed,Colleyville,"2020 Willow St, Colleyville, TX",0.1
+527,Mary,Garcia,32,Female,465,101752,Employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.38
+528,Jennifer,Thompson,28,Female,513,77628,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.64
+529,Richard,Rodriguez,27,Male,498,60403,Self-employed,Southlake,"801 Cherry St, Southlake, TX",0.51
+529,Richard,Rodriguez,27,Male,583,60403,Self-employed,Southlake,"801 Cherry St, Southlake, TX",0.51
+530,Susan,Smith,58,Female,435,52922,Employed,Coppell,"3030 Maple St, Coppell, TX",1
+531,John,Perez,70,Male,529,118583,Employed,McKinney,"690 Ash St, McKinney, TX",0.36
+532,Thomas,Martin,42,Male,816,47332,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.14
+533,Jessica,Anderson,31,Female,817,45452,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.41
+534,Richard,Jackson,54,Male,602,48888,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.91
+535,Barbara,Brown,36,Female,532,68115,Unemployed,Irving,"246 Birch St, Irving, TX",0.48
+536,John,Miller,19,Male,435,65025,Unemployed,Southlake,"801 Cherry St, Southlake, TX",0.66
+537,Joseph,Martin,33,Male,783,96711,Employed,Grapevine,"468 Spruce St, Grapevine, TX",0.01
+538,Charles,Taylor,19,Male,617,117669,Self-employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.34
+539,Elizabeth,Brown,34,Female,505,80357,Unemployed,Frisco,"357 Cedar St, Frisco, TX",0.64
+539,Elizabeth,Brown,34,Female,435,80357,Unemployed,Frisco,"357 Cedar St, Frisco, TX",0.64
+540,Karen,Taylor,69,Female,450,116540,Unemployed,Dallas,"123 Elm St, Dallas, TX",0.24
+540,Karen,Taylor,69,Female,473,116540,Unemployed,Dallas,"123 Elm St, Dallas, TX",0.24
+541,James,Hernandez,22,Male,547,95031,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.57
+542,Patricia,Smith,64,Female,601,117471,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.25
+542,Patricia,Smith,64,Female,581,117471,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.25
+543,Jennifer,Johnson,50,Female,548,40350,Employed,Richardson,"5050 Oak St, Richardson, TX",0.54
+544,Linda,Garcia,64,Female,790,95374,Employed,Irving,"246 Birch St, Irving, TX",0.19
+545,James,Martin,33,Male,553,68547,Employed,Richardson,"5050 Oak St, Richardson, TX",0.3
+546,Charles,Gonzalez,30,Male,844,64026,Self-employed,Richardson,"5050 Oak St, Richardson, TX",0.26
+547,Thomas,Taylor,28,Male,757,64669,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.28
+548,Jessica,Gonzalez,29,Female,435,35042,Unemployed,Denton,"999 Magnolia Ave, Denton, TX",0.83
+549,Mary,Williams,24,Female,648,111473,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.2
+550,James,Miller,43,Male,785,79746,Employed,Colleyville,"2020 Willow St, Colleyville, TX",0.04
+550,James,Miller,43,Male,794,79746,Employed,Colleyville,"2020 Willow St, Colleyville, TX",0.04
+551,Jessica,Miller,41,Female,802,113406,Employed,Denton,"999 Magnolia Ave, Denton, TX",0.14
+552,Charles,Johnson,45,Male,549,93483,Unemployed,Richardson,"5050 Oak St, Richardson, TX",0.39
+552,Charles,Johnson,45,Male,435,93483,Unemployed,Richardson,"5050 Oak St, Richardson, TX",0.39
+553,Elizabeth,Martinez,29,Female,528,59785,Employed,Arlington,"789 Pine St, Arlington, TX",0.53
+554,Barbara,Jackson,51,Female,544,62869,Self-employed,Southlake,"801 Cherry St, Southlake, TX",0.57
+555,Jessica,Hernandez,29,Female,542,57000,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.86
+556,Charles,Williams,24,Male,698,83432,Unemployed,Dallas,"123 Elm St, Dallas, TX",0.26
+557,Elizabeth,Lee,42,Female,446,44920,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.96
+558,Richard,Wilson,18,Male,601,73042,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.28
+559,Linda,Smith,63,Female,810,80138,Employed,Frisco,"357 Cedar St, Frisco, TX",0.03
+560,Susan,Lopez,34,Female,607,71483,Unemployed,Grapevine,"468 Spruce St, Grapevine, TX",0.46
+561,Karen,Garcia,60,Female,622,114588,Employed,Southlake,"801 Cherry St, Southlake, TX",0.27
+561,Karen,Garcia,60,Female,535,114588,Employed,Southlake,"801 Cherry St, Southlake, TX",0.27
+562,William,Brown,54,Male,511,40600,Employed,Southlake,"801 Cherry St, Southlake, TX",1.1
+563,Karen,Martinez,39,Female,568,69332,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.49
+564,Charles,Anderson,57,Male,790,50350,Employed,Richardson,"5050 Oak St, Richardson, TX",0.06
+565,Mary,Garcia,67,Female,435,82401,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.48
+566,Jennifer,Martinez,38,Female,791,50428,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.32
+567,Karen,Thomas,61,Female,502,68704,Unemployed,Southlake,"801 Cherry St, Southlake, TX",0.59
+568,Mary,Johnson,39,Female,834,116602,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.06
+569,Karen,Thompson,23,Female,435,110477,Self-employed,Grapevine,"468 Spruce St, Grapevine, TX",0.46
+570,Jessica,Johnson,62,Female,435,75770,Employed,Denton,"999 Magnolia Ave, Denton, TX",0.6
+571,Jennifer,Gonzalez,25,Female,794,65569,Self-employed,Plano,"135 Maple St, Plano, TX",0.3
+572,Mary,Lopez,50,Female,738,37463,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.14
+573,Robert,Thompson,39,Male,606,88114,Employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.39
+574,Sarah,Gonzalez,43,Female,691,35103,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.75
+575,Barbara,Rodriguez,19,Female,530,62843,Self-employed,Grapevine,"468 Spruce St, Grapevine, TX",0.78
+576,Thomas,Hernandez,24,Male,834,31966,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.49
+577,Charles,Anderson,63,Male,801,34090,Employed,Irving,"246 Birch St, Irving, TX",0.45
+578,Linda,Thompson,70,Female,785,66483,Unemployed,Irving,"246 Birch St, Irving, TX",0.21
+579,Robert,Garcia,67,Male,584,81472,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.25
+580,Elizabeth,Smith,25,Female,585,45679,Self-employed,Richardson,"5050 Oak St, Richardson, TX",0.88
+581,Charles,Jackson,38,Male,751,45168,Employed,Irving,"246 Birch St, Irving, TX",0.33
+582,Joseph,Davis,36,Male,825,99414,Self-employed,Keller,"4040 Birch St, Keller, TX",0.16
+582,Joseph,Davis,36,Male,807,99414,Self-employed,Keller,"4040 Birch St, Keller, TX",0.16
+583,Thomas,Taylor,19,Male,527,99892,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0.42
+584,Mary,Anderson,62,Female,761,110387,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.06
+585,Jessica,Moore,42,Female,691,83841,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.24
+585,Jessica,Moore,42,Female,631,83841,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.24
+586,Robert,Taylor,21,Male,804,98752,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.09
+587,Sarah,Davis,61,Female,452,97966,Self-employed,Keller,"4040 Birch St, Keller, TX",0.4
+588,David,Johnson,48,Male,435,94327,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",0.5
+589,Barbara,Gonzalez,25,Female,435,71624,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.58
+590,Michael,Jackson,61,Male,501,54726,Employed,Denton,"999 Magnolia Ave, Denton, TX",0.68
+591,Patricia,Jones,39,Female,795,50028,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.27
+592,William,Moore,39,Male,502,72203,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.76
+593,Jessica,Hernandez,33,Female,596,35000,Employed,Frisco,"357 Cedar St, Frisco, TX",0.65
+594,Thomas,Thomas,37,Male,448,60425,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.67
+595,James,Anderson,60,Male,728,69206,Employed,McKinney,"690 Ash St, McKinney, TX",0.13
+596,Michael,Jackson,64,Male,609,97124,Employed,Keller,"4040 Birch St, Keller, TX",0.45
+596,Michael,Jackson,64,Male,583,97124,Employed,Keller,"4040 Birch St, Keller, TX",0.45
+597,Mary,Johnson,69,Female,599,81544,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.28
+598,Sarah,Moore,20,Female,456,78447,Unemployed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.52
+599,Patricia,Hernandez,59,Female,819,106693,Self-employed,Keller,"4040 Birch St, Keller, TX",0.03
+600,Jessica,Miller,66,Female,740,81615,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.07
+601,John,Johnson,32,Male,435,38947,Unemployed,Colleyville,"2020 Willow St, Colleyville, TX",0.92
+602,Jessica,Jones,36,Female,441,61397,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.77
+603,Linda,Smith,20,Female,435,115654,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.3
+603,Linda,Smith,20,Female,539,115654,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.3
+604,Sarah,Perez,27,Female,774,91052,Self-employed,Plano,"135 Maple St, Plano, TX",0.15
+605,Richard,Lopez,54,Male,477,55898,Self-employed,Arlington,"789 Pine St, Arlington, TX",0.58
+605,Richard,Lopez,54,Male,481,55898,Self-employed,Arlington,"789 Pine St, Arlington, TX",0.58
+606,William,Thompson,25,Male,668,85483,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.27
+607,Elizabeth,Gonzalez,34,Female,838,106511,Employed,Dallas,"123 Elm St, Dallas, TX",0.17
+608,Patricia,Garcia,18,Female,578,118009,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.46
+608,Patricia,Garcia,18,Female,439,118009,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.46
+609,David,Moore,64,Male,734,46243,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.09
+610,Susan,Jones,60,Female,534,109283,Employed,Colleyville,"2020 Willow St, Colleyville, TX",0.36
+611,Linda,Rodriguez,18,Female,435,58439,Employed,McKinney,"690 Ash St, McKinney, TX",0.68
+612,Jennifer,Moore,40,Female,839,110979,Employed,Southlake,"801 Cherry St, Southlake, TX",0.05
+613,Robert,Martin,58,Male,831,52297,Unemployed,Fort Worth,"456 Oak St, Fort Worth, TX",0.05
+614,Sarah,Davis,67,Female,435,117865,Employed,Irving,"246 Birch St, Irving, TX",0.39
+615,Mary,Williams,25,Female,659,86517,Self-employed,Richardson,"5050 Oak St, Richardson, TX",0.3
+616,Jennifer,Rodriguez,58,Female,591,79453,Self-employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.6
+617,Robert,Lee,28,Male,742,31339,Self-employed,McKinney,"690 Ash St, McKinney, TX",0.41
+618,Robert,Moore,66,Male,485,113884,Unemployed,Colleyville,"2020 Willow St, Colleyville, TX",0.42
+619,Jessica,Lee,70,Female,806,113098,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.1
+620,Patricia,Rodriguez,47,Female,583,66472,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.81
+621,Barbara,Thompson,57,Female,573,94427,Unemployed,Richardson,"5050 Oak St, Richardson, TX",0.48
+622,Elizabeth,Lopez,66,Female,536,54992,Unemployed,Denton,"999 Magnolia Ave, Denton, TX",0.52
+623,William,Lopez,26,Male,601,35774,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0.99
+623,William,Lopez,26,Male,435,35774,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0.99
+623,William,Lopez,26,Male,503,35774,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0.99
+624,Charles,Perez,56,Male,761,115319,Unemployed,Denton,"999 Magnolia Ave, Denton, TX",0.15
+624,Charles,Perez,56,Male,824,115319,Unemployed,Denton,"999 Magnolia Ave, Denton, TX",0.15
+625,Richard,Lopez,48,Male,525,48109,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.94
+626,John,Jackson,51,Male,816,63281,Self-employed,Keller,"4040 Birch St, Keller, TX",0.26
+627,Thomas,Taylor,31,Male,435,66342,Unemployed,Colleyville,"2020 Willow St, Colleyville, TX",0.59
+628,James,Johnson,44,Male,435,110303,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.29
+628,James,Johnson,44,Male,457,110303,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.29
+628,James,Johnson,44,Male,544,110303,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.29
+629,Michael,Wilson,57,Male,748,103084,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.04
+629,Michael,Wilson,57,Male,737,103084,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.04
+630,Susan,Jackson,41,Female,566,53723,Unemployed,Richardson,"5050 Oak St, Richardson, TX",0.97
+631,Jessica,Gonzalez,34,Female,564,114442,Employed,Grapevine,"468 Spruce St, Grapevine, TX",0.26
+631,Jessica,Gonzalez,34,Female,435,114442,Employed,Grapevine,"468 Spruce St, Grapevine, TX",0.26
+632,Thomas,Davis,47,Male,729,47610,Self-employed,Keller,"4040 Birch St, Keller, TX",0.04
+633,Jennifer,Johnson,42,Female,552,52613,Employed,Dallas,"123 Elm St, Dallas, TX",0.81
+634,Michael,Thomas,21,Male,741,58327,Unemployed,Fort Worth,"456 Oak St, Fort Worth, TX",0.17
+635,Jennifer,Davis,31,Female,623,103195,Employed,Arlington,"789 Pine St, Arlington, TX",0.33
+636,Robert,Wilson,58,Male,714,99888,Employed,Arlington,"789 Pine St, Arlington, TX",0.23
+637,Charles,Martinez,36,Male,460,82410,Employed,Frisco,"357 Cedar St, Frisco, TX",0.36
+637,Charles,Martinez,36,Male,626,82410,Employed,Frisco,"357 Cedar St, Frisco, TX",0.36
+638,Robert,Thomas,36,Male,527,57660,Self-employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.63
+639,Linda,Rodriguez,63,Female,455,110683,Employed,Frisco,"357 Cedar St, Frisco, TX",0.31
+640,Patricia,Smith,68,Female,720,35046,Unemployed,Richardson,"5050 Oak St, Richardson, TX",0.72
+641,Karen,Lee,40,Female,605,104518,Employed,Keller,"4040 Birch St, Keller, TX",0.47
+642,Patricia,Rodriguez,29,Female,736,77903,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.08
+643,Linda,Thompson,66,Female,728,108196,Unemployed,Irving,"246 Birch St, Irving, TX",0.07
+644,William,Miller,54,Male,814,91226,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.01
+645,Thomas,Thompson,63,Male,435,98932,Employed,McKinney,"690 Ash St, McKinney, TX",0.33
+646,Richard,Perez,43,Male,582,66730,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.47
+646,Richard,Perez,43,Male,591,66730,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.47
+647,Linda,Johnson,62,Female,750,38913,Unemployed,Irving,"246 Birch St, Irving, TX",0.43
+648,Barbara,Anderson,70,Female,435,106016,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.32
+649,Michael,Rodriguez,58,Male,435,111263,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.25
+650,Karen,Jackson,48,Female,435,54838,Self-employed,Arlington,"789 Pine St, Arlington, TX",0.7
+651,Mary,Thomas,36,Female,823,99040,Employed,Richardson,"5050 Oak St, Richardson, TX",0.04
+652,Michael,Perez,18,Male,534,93160,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.52
+653,Michael,Brown,22,Male,501,32441,Employed,Denton,"999 Magnolia Ave, Denton, TX",1.08
+653,Michael,Brown,22,Male,624,32441,Employed,Denton,"999 Magnolia Ave, Denton, TX",1.08
+654,David,Wilson,30,Male,726,89202,Employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.19
+655,Jessica,Moore,61,Female,550,31188,Self-employed,Southlake,"801 Cherry St, Southlake, TX",1.48
+656,Barbara,Smith,49,Female,821,84772,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.22
+657,Mary,Johnson,48,Female,843,45424,Employed,Southlake,"801 Cherry St, Southlake, TX",0.23
+658,Karen,Moore,27,Female,781,112890,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.12
+659,Jennifer,Rodriguez,18,Female,603,59837,Self-employed,Dallas,"123 Elm St, Dallas, TX",0.34
+660,Sarah,Rodriguez,38,Female,467,61979,Employed,Dallas,"123 Elm St, Dallas, TX",0.67
+661,William,Wilson,26,Male,573,88882,Employed,Denton,"999 Magnolia Ave, Denton, TX",0.38
+662,Sarah,Wilson,42,Female,755,98005,Self-employed,Southlake,"801 Cherry St, Southlake, TX",0.05
+663,Joseph,Thomas,24,Male,800,119031,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.07
+664,Richard,Perez,54,Male,454,64526,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.7
+664,Richard,Perez,54,Male,435,64526,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.7
+665,David,Rodriguez,32,Male,590,66817,Self-employed,Grapevine,"468 Spruce St, Grapevine, TX",0.38
+666,Jessica,Moore,29,Female,529,88883,Unemployed,Denton,"999 Magnolia Ave, Denton, TX",0.57
+667,Robert,Wilson,34,Male,581,46495,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.95
+667,Robert,Wilson,34,Male,527,46495,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.95
+667,Robert,Wilson,34,Male,604,46495,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.95
+668,Joseph,Gonzalez,30,Male,799,109842,Employed,Denton,"999 Magnolia Ave, Denton, TX",0.09
+669,Susan,Martinez,40,Female,787,102528,Employed,Irving,"246 Birch St, Irving, TX",0.17
+670,Patricia,Anderson,61,Female,739,97315,Self-employed,Richardson,"5050 Oak St, Richardson, TX",0.19
+671,James,Garcia,40,Male,758,100226,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0.03
+672,Linda,Williams,45,Female,554,116834,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.37
+673,Joseph,Taylor,40,Male,574,81133,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.33
+674,William,Lopez,38,Male,539,98074,Unemployed,Irving,"246 Birch St, Irving, TX",0.36
+675,William,Rodriguez,35,Male,435,92418,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.34
+676,Charles,Gonzalez,25,Male,806,107852,Self-employed,Dallas,"123 Elm St, Dallas, TX",0.18
+677,William,Miller,39,Male,811,64595,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",0.22
+677,William,Miller,39,Male,809,64595,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",0.22
+678,Linda,Garcia,36,Female,813,74826,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0.05
+679,Jessica,Hernandez,53,Female,759,98977,Unemployed,Plano,"135 Maple St, Plano, TX",0.04
+680,Joseph,Thompson,29,Male,608,35479,Unemployed,Southlake,"801 Cherry St, Southlake, TX",0.81
+681,Mary,Miller,51,Female,435,35674,Unemployed,Frisco,"357 Cedar St, Frisco, TX",0.8
+681,Mary,Miller,51,Female,435,35674,Unemployed,Frisco,"357 Cedar St, Frisco, TX",0.8
+682,John,Perez,50,Male,614,91230,Unemployed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.32
+683,William,Lopez,53,Male,568,87515,Self-employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.29
+684,Barbara,Williams,36,Female,759,104835,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.1
+684,Barbara,Williams,36,Female,779,104835,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.1
+685,Jennifer,Martin,33,Female,455,83310,Unemployed,Richardson,"5050 Oak St, Richardson, TX",0.35
+686,Karen,Hernandez,27,Female,435,74234,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.69
+687,Thomas,Lee,64,Male,524,85945,Employed,Frisco,"357 Cedar St, Frisco, TX",0.54
+687,Thomas,Lee,64,Male,435,85945,Employed,Frisco,"357 Cedar St, Frisco, TX",0.54
+688,Linda,Hernandez,41,Female,566,113163,Self-employed,McKinney,"690 Ash St, McKinney, TX",0.19
+689,John,Williams,26,Male,833,100371,Unemployed,Frisco,"357 Cedar St, Frisco, TX",0.18
+690,Michael,Thomas,35,Male,460,49296,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",0.58
+691,Joseph,Martin,31,Male,580,107555,Unemployed,Irving,"246 Birch St, Irving, TX",0.39
+692,Robert,Davis,61,Male,615,98990,Unemployed,Plano,"135 Maple St, Plano, TX",0.53
+693,Barbara,Davis,55,Female,840,91153,Unemployed,Fort Worth,"456 Oak St, Fort Worth, TX",0.18
+694,Joseph,Johnson,55,Male,435,33901,Self-employed,Irving,"246 Birch St, Irving, TX",0.83
+695,Linda,Gonzalez,28,Female,833,62236,Unemployed,Grapevine,"468 Spruce St, Grapevine, TX",0.25
+695,Linda,Gonzalez,28,Female,759,62236,Unemployed,Grapevine,"468 Spruce St, Grapevine, TX",0.25
+696,Charles,Lee,29,Male,789,116891,Self-employed,Southlake,"801 Cherry St, Southlake, TX",0.06
+697,Linda,Martin,20,Female,599,89747,Self-employed,Plano,"135 Maple St, Plano, TX",0.52
+698,Susan,Taylor,36,Female,609,37831,Self-employed,Coppell,"3030 Maple St, Coppell, TX",1.05
+699,Michael,Perez,43,Male,752,53805,Employed,Arlington,"789 Pine St, Arlington, TX",0.03
+700,Karen,Anderson,46,Female,739,98328,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.11
+701,Karen,Jackson,57,Female,442,95815,Unemployed,Southlake,"801 Cherry St, Southlake, TX",0.42
+702,Richard,Lopez,18,Male,435,104874,Unemployed,Frisco,"357 Cedar St, Frisco, TX",0.29
+703,Mary,Williams,66,Female,842,107353,Employed,Colleyville,"2020 Willow St, Colleyville, TX",0.08
+704,Karen,Jones,24,Female,435,43116,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.85
+705,Linda,Brown,68,Female,435,96351,Self-employed,McKinney,"690 Ash St, McKinney, TX",0.37
+706,David,Jackson,42,Male,435,72639,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",0.6
+706,David,Jackson,42,Male,579,72639,Unemployed,Lewisville,"579 Walnut St, Lewisville, TX",0.6
+707,David,Smith,47,Male,435,92500,Unemployed,Irving,"246 Birch St, Irving, TX",0.35
+708,Susan,Gonzalez,24,Female,623,101617,Self-employed,Dallas,"123 Elm St, Dallas, TX",0.45
+709,Patricia,Rodriguez,33,Female,586,105749,Self-employed,Richardson,"5050 Oak St, Richardson, TX",0.3
+710,Robert,Jackson,35,Male,729,47194,Employed,McKinney,"690 Ash St, McKinney, TX",0.31
+710,Robert,Jackson,35,Male,819,47194,Employed,McKinney,"690 Ash St, McKinney, TX",0.31
+711,James,Gonzalez,37,Male,551,54318,Self-employed,Richardson,"5050 Oak St, Richardson, TX",0.99
+712,Barbara,Anderson,32,Female,765,62723,Unemployed,Plano,"135 Maple St, Plano, TX",0.02
+712,Barbara,Anderson,32,Female,812,62723,Unemployed,Plano,"135 Maple St, Plano, TX",0.02
+713,Charles,Johnson,25,Male,627,34829,Self-employed,Frisco,"357 Cedar St, Frisco, TX",1.3
+713,Charles,Johnson,25,Male,501,34829,Self-employed,Frisco,"357 Cedar St, Frisco, TX",1.3
+713,Charles,Johnson,25,Male,570,34829,Self-employed,Frisco,"357 Cedar St, Frisco, TX",1.3
+714,Richard,Davis,49,Male,812,65907,Unemployed,Dallas,"123 Elm St, Dallas, TX",0.3
+715,Jennifer,Thompson,33,Female,699,99919,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.25
+716,Thomas,Taylor,65,Male,725,32845,Employed,Keller,"4040 Birch St, Keller, TX",0.17
+717,Richard,Gonzalez,46,Male,807,101696,Unemployed,Denton,"999 Magnolia Ave, Denton, TX",0
+718,Mary,Moore,55,Female,445,56563,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0.88
+719,Thomas,Jackson,44,Male,586,61002,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.88
+720,Robert,Johnson,45,Male,790,50477,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.24
+721,Linda,Thompson,49,Female,796,50713,Unemployed,Grapevine,"468 Spruce St, Grapevine, TX",0.27
+722,Patricia,Anderson,34,Female,752,74517,Employed,Keller,"4040 Birch St, Keller, TX",0.23
+723,Linda,Hernandez,49,Female,802,50747,Unemployed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.26
+723,Linda,Hernandez,49,Female,732,50747,Unemployed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.26
+724,John,Thomas,19,Male,539,33409,Employed,Colleyville,"2020 Willow St, Colleyville, TX",1.11
+725,Jennifer,Davis,31,Female,766,41063,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.47
+726,William,Lee,32,Male,568,39515,Self-employed,Grapevine,"468 Spruce St, Grapevine, TX",0.73
+727,Robert,Moore,22,Male,764,69235,Employed,Southlake,"801 Cherry St, Southlake, TX",0.28
+727,Robert,Moore,22,Male,762,69235,Employed,Southlake,"801 Cherry St, Southlake, TX",0.28
+728,Michael,Anderson,53,Male,829,42820,Self-employed,Plano,"135 Maple St, Plano, TX",0.36
+729,Linda,Jones,54,Female,829,75531,Self-employed,McKinney,"690 Ash St, McKinney, TX",0.13
+730,John,Thompson,42,Male,660,30511,Employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.78
+731,Barbara,Martinez,56,Female,740,34366,Self-employed,McKinney,"690 Ash St, McKinney, TX",0.13
+732,Michael,Lee,21,Male,435,46654,Employed,Colleyville,"2020 Willow St, Colleyville, TX",0.64
+733,Jennifer,Johnson,19,Female,831,56704,Self-employed,Irving,"246 Birch St, Irving, TX",0.08
+734,Thomas,Williams,64,Male,435,78611,Unemployed,Richardson,"5050 Oak St, Richardson, TX",0.55
+735,Linda,Brown,29,Female,734,95983,Employed,Denton,"999 Magnolia Ave, Denton, TX",0.19
+735,Linda,Brown,29,Female,768,95983,Employed,Denton,"999 Magnolia Ave, Denton, TX",0.19
+736,Jennifer,Brown,61,Female,741,67237,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.12
+737,Elizabeth,Davis,58,Female,621,94667,Unemployed,Richardson,"5050 Oak St, Richardson, TX",0.39
+738,Michael,Taylor,63,Male,668,70294,Self-employed,Grapevine,"468 Spruce St, Grapevine, TX",0.29
+739,James,Davis,27,Male,435,74759,Employed,Colleyville,"2020 Willow St, Colleyville, TX",0.42
+740,John,Perez,18,Male,507,65351,Unemployed,Frisco,"357 Cedar St, Frisco, TX",0.84
+741,James,Lee,50,Male,435,32881,Unemployed,Richardson,"5050 Oak St, Richardson, TX",1.17
+742,Patricia,Martin,38,Female,741,98373,Employed,Colleyville,"2020 Willow St, Colleyville, TX",0.16
+743,Jessica,Garcia,28,Female,435,91881,Unemployed,Plano,"135 Maple St, Plano, TX",0.51
+744,Karen,Anderson,52,Female,750,81780,Unemployed,McKinney,"690 Ash St, McKinney, TX",0.03
+745,William,Gonzalez,28,Male,620,119901,Self-employed,McKinney,"690 Ash St, McKinney, TX",0.41
+746,Elizabeth,Williams,43,Female,536,51272,Self-employed,Dallas,"123 Elm St, Dallas, TX",0.87
+747,Richard,Miller,49,Male,454,73350,Employed,Arlington,"789 Pine St, Arlington, TX",0.57
+748,Susan,Gonzalez,66,Female,632,44609,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.6
+749,David,Lopez,19,Male,726,115940,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0.09
+749,David,Lopez,19,Male,757,115940,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0.09
+749,David,Lopez,19,Male,826,115940,Self-employed,Lewisville,"579 Walnut St, Lewisville, TX",0.09
+750,Richard,Brown,27,Male,815,51729,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.3
+751,Joseph,Perez,41,Male,790,41858,Unemployed,Southlake,"801 Cherry St, Southlake, TX",0.18
+751,Joseph,Perez,41,Male,778,41858,Unemployed,Southlake,"801 Cherry St, Southlake, TX",0.18
+752,Mary,Brown,59,Female,829,85050,Self-employed,McKinney,"690 Ash St, McKinney, TX",0.21
+753,Joseph,Thomas,59,Male,774,64333,Employed,Frisco,"357 Cedar St, Frisco, TX",0.17
+754,Jennifer,Taylor,65,Female,435,62907,Unemployed,Southlake,"801 Cherry St, Southlake, TX",0.85
+754,Jennifer,Taylor,65,Female,435,62907,Unemployed,Southlake,"801 Cherry St, Southlake, TX",0.85
+755,Robert,Wilson,24,Male,613,105934,Self-employed,Arlington,"789 Pine St, Arlington, TX",0.4
+756,Mary,Martin,47,Female,444,71287,Self-employed,Richardson,"5050 Oak St, Richardson, TX",0.62
+757,Karen,Gonzalez,56,Female,746,66410,Employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.12
+757,Karen,Gonzalez,56,Female,820,66410,Employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.12
+758,Michael,Jackson,26,Male,435,108814,Unemployed,Irving,"246 Birch St, Irving, TX",0.31
+759,Sarah,Smith,40,Female,577,54533,Unemployed,Frisco,"357 Cedar St, Frisco, TX",0.49
+760,Charles,Johnson,38,Male,564,52855,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.54
+761,John,Anderson,23,Male,650,63260,Employed,McKinney,"690 Ash St, McKinney, TX",0.43
+762,Thomas,Wilson,52,Male,810,46723,Self-employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.41
+763,Michael,Anderson,60,Male,809,60745,Employed,Irving,"246 Birch St, Irving, TX",0.22
+764,Joseph,Moore,55,Male,605,89565,Employed,Coppell,"3030 Maple St, Coppell, TX",0.33
+765,Robert,Martinez,65,Male,751,64169,Employed,Frisco,"357 Cedar St, Frisco, TX",0.03
+766,Thomas,Anderson,66,Male,793,37299,Unemployed,Denton,"999 Magnolia Ave, Denton, TX",0.01
+767,William,Lopez,58,Male,442,30884,Self-employed,Richardson,"5050 Oak St, Richardson, TX",1.67
+767,William,Lopez,58,Male,590,30884,Self-employed,Richardson,"5050 Oak St, Richardson, TX",1.67
+768,John,Anderson,23,Male,457,69892,Self-employed,Southlake,"801 Cherry St, Southlake, TX",0.54
+769,James,Miller,53,Male,815,34081,Unemployed,Colleyville,"2020 Willow St, Colleyville, TX",0.19
+770,David,Thompson,30,Male,638,30851,Unemployed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.72
+771,James,Lopez,22,Male,557,114217,Employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.3
+772,John,Jackson,32,Male,579,32597,Unemployed,Dallas,"123 Elm St, Dallas, TX",1.36
+773,Charles,Thomas,29,Male,828,118508,Employed,Lewisville,"579 Walnut St, Lewisville, TX",0.11
+774,William,Miller,55,Male,689,74761,Self-employed,Richardson,"5050 Oak St, Richardson, TX",0.3
+775,Richard,Johnson,35,Male,845,88887,Unemployed,Colleyville,"2020 Willow St, Colleyville, TX",0.15
+776,Linda,Johnson,28,Female,581,82156,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.59
+777,Elizabeth,Hernandez,67,Female,557,60885,Unemployed,Southlake,"801 Cherry St, Southlake, TX",0.43
+778,James,Lopez,59,Male,435,45956,Unemployed,Flower Mound,"1010 Elm St, Flower Mound, TX",1.02
+779,Jennifer,Jones,22,Female,475,86314,Employed,Southlake,"801 Cherry St, Southlake, TX",0.54
+780,William,Wilson,24,Male,777,60992,Self-employed,Arlington,"789 Pine St, Arlington, TX",0.07
+781,Thomas,Davis,28,Male,766,76765,Unemployed,Denton,"999 Magnolia Ave, Denton, TX",0.2
+782,David,Taylor,65,Male,579,31512,Employed,Southlake,"801 Cherry St, Southlake, TX",1.71
+783,Joseph,Taylor,30,Male,771,70481,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.07
+783,Joseph,Taylor,30,Male,833,70481,Self-employed,Coppell,"3030 Maple St, Coppell, TX",0.07
+784,Mary,Martin,55,Female,509,119953,Employed,Arlington,"789 Pine St, Arlington, TX",0.4
+785,Charles,Thompson,25,Male,435,56433,Self-employed,Denton,"999 Magnolia Ave, Denton, TX",0.94
+786,Linda,Brown,48,Female,640,85497,Unemployed,Dallas,"123 Elm St, Dallas, TX",0.25
+787,Karen,Rodriguez,37,Female,661,52615,Unemployed,Richardson,"5050 Oak St, Richardson, TX",0.44
+788,Thomas,Gonzalez,36,Male,508,68212,Self-employed,Fort Worth,"456 Oak St, Fort Worth, TX",0.62
+789,Sarah,Davis,48,Female,807,55606,Unemployed,Dallas,"123 Elm St, Dallas, TX",0.34
+790,Thomas,Hernandez,25,Male,769,87185,Self-employed,Frisco,"357 Cedar St, Frisco, TX",0.1
+791,Linda,Miller,48,Female,686,64162,Unemployed,Arlington,"789 Pine St, Arlington, TX",0.33
+792,William,Garcia,54,Male,787,84015,Unemployed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.17
+793,Karen,Williams,68,Female,766,41836,Unemployed,Grapevine,"468 Spruce St, Grapevine, TX",0.02
+793,Karen,Williams,68,Female,808,41836,Unemployed,Grapevine,"468 Spruce St, Grapevine, TX",0.02
+794,Patricia,Miller,44,Female,574,61960,Self-employed,Colleyville,"2020 Willow St, Colleyville, TX",0.36
+795,Michael,Rodriguez,23,Male,683,114029,Unemployed,Keller,"4040 Birch St, Keller, TX",0.23
+795,Michael,Rodriguez,23,Male,705,114029,Unemployed,Keller,"4040 Birch St, Keller, TX",0.23
+796,Joseph,Anderson,38,Male,440,119076,Unemployed,Coppell,"3030 Maple St, Coppell, TX",0.28
+797,David,Garcia,22,Male,551,119275,Self-employed,Flower Mound,"1010 Elm St, Flower Mound, TX",0.2
+798,Susan,Martin,29,Female,470,78761,Unemployed,Dallas,"123 Elm St, Dallas, TX",0.42
+799,Jennifer,Brown,61,Female,565,73466,Self-employed,Arlington,"789 Pine St, Arlington, TX",0.38
+800,James,Davis,62,Male,435,51277,Employed,Plano,"135 Maple St, Plano, TX",0.92
+801,Elizabeth,Wilson,62,Female,675,96799,Employed,El Paso,"135 Elm St, El Paso, TX",0.26
+801,Elizabeth,Wilson,62,Female,611,96799,Employed,El Paso,"135 Elm St, El Paso, TX",0.26
+802,Karen,Davis,19,Female,435,66892,Unemployed,Abilene,"468 Spruce St, Abilene, TX",0.47
+803,Joseph,Moore,36,Male,459,53704,Self-employed,Amarillo,"357 Cedar St, Amarillo, TX",0.57
+804,Barbara,Lopez,59,Female,450,67330,Self-employed,El Paso,"135 Elm St, El Paso, TX",0.68
+804,Barbara,Lopez,59,Female,577,67330,Self-employed,El Paso,"135 Elm St, El Paso, TX",0.68
+805,John,Lopez,24,Male,472,89029,Self-employed,Austin,"456 Pine St, Austin, TX",0.57
+806,James,Lopez,67,Male,802,49718,Employed,Corpus Christi,"801 Cherry St, Corpus Christi, TX",0.08
+807,Michael,Davis,51,Male,796,77188,Unemployed,El Paso,"135 Elm St, El Paso, TX",0.18
+807,Michael,Davis,51,Male,739,77188,Unemployed,El Paso,"135 Elm St, El Paso, TX",0.18
+808,Charles,Smith,20,Male,441,33703,Unemployed,El Paso,"135 Elm St, El Paso, TX",1.31
+809,Patricia,Perez,50,Female,834,94795,Employed,Waco,"579 Walnut St, Waco, TX",0.01
+810,Barbara,Lopez,58,Female,492,65738,Self-employed,Waco,"579 Walnut St, Waco, TX",0.76
+811,Susan,Thompson,24,Female,576,91888,Self-employed,Abilene,"468 Spruce St, Abilene, TX",0.23
+811,Susan,Thompson,24,Female,660,91888,Self-employed,Abilene,"468 Spruce St, Abilene, TX",0.23
+812,William,Jones,41,Male,624,36949,Self-employed,Abilene,"468 Spruce St, Abilene, TX",1.38
+812,William,Jones,41,Male,502,36949,Self-employed,Abilene,"468 Spruce St, Abilene, TX",1.38
+813,Joseph,Rodriguez,40,Male,816,44343,Employed,Abilene,"468 Spruce St, Abilene, TX",0.17
+813,Joseph,Rodriguez,40,Male,809,44343,Employed,Abilene,"468 Spruce St, Abilene, TX",0.17
+814,David,Johnson,22,Male,553,81851,Self-employed,Austin,"456 Pine St, Austin, TX",0.43
+815,Richard,Lopez,25,Male,435,56604,Employed,San Antonio,"789 Maple St, San Antonio, TX",0.49
+816,Michael,Lee,22,Male,435,77490,Self-employed,Amarillo,"357 Cedar St, Amarillo, TX",0.68
+817,Linda,Thomas,55,Female,581,39733,Employed,San Antonio,"789 Maple St, San Antonio, TX",0.58
+818,Michael,Hernandez,25,Male,545,90177,Self-employed,Corpus Christi,"801 Cherry St, Corpus Christi, TX",0.35
+819,Linda,Gonzalez,47,Female,544,87082,Employed,San Antonio,"789 Maple St, San Antonio, TX",0.54
+820,Charles,Martin,30,Male,498,103294,Self-employed,San Antonio,"789 Maple St, San Antonio, TX",0.46
+821,Elizabeth,Martinez,45,Female,435,109749,Unemployed,San Antonio,"789 Maple St, San Antonio, TX",0.35
+822,Jessica,Lee,37,Female,793,43393,Employed,Waco,"579 Walnut St, Waco, TX",0.41
+823,John,Taylor,37,Male,510,95646,Self-employed,El Paso,"135 Elm St, El Paso, TX",0.41
+824,Sarah,Moore,19,Female,725,65436,Employed,El Paso,"135 Elm St, El Paso, TX",0.19
+825,David,Rodriguez,63,Male,827,96590,Employed,Corpus Christi,"801 Cherry St, Corpus Christi, TX",0.17
+826,Sarah,Martinez,24,Female,687,105523,Unemployed,Waco,"579 Walnut St, Waco, TX",0.24
+827,John,Wilson,20,Male,609,95664,Self-employed,San Antonio,"789 Maple St, San Antonio, TX",0.26
+828,Joseph,Jones,58,Male,824,48269,Self-employed,Austin,"456 Pine St, Austin, TX",0.35
+829,Susan,Gonzalez,68,Female,697,106076,Unemployed,Abilene,"468 Spruce St, Abilene, TX",0.21
+830,William,Johnson,31,Male,509,113180,Employed,El Paso,"135 Elm St, El Paso, TX",0.24
+831,Robert,Lopez,42,Male,743,50351,Employed,Corpus Christi,"801 Cherry St, Corpus Christi, TX",0.16
+832,Linda,Moore,63,Female,594,57581,Employed,Midland,"690 Ash St, Midland, TX",0.46
+832,Linda,Moore,63,Female,549,57581,Employed,Midland,"690 Ash St, Midland, TX",0.46
+833,Elizabeth,Miller,21,Female,535,81454,Self-employed,Corpus Christi,"801 Cherry St, Corpus Christi, TX",0.48
+833,Elizabeth,Miller,21,Female,497,81454,Self-employed,Corpus Christi,"801 Cherry St, Corpus Christi, TX",0.48
+834,James,Thompson,36,Male,534,81613,Employed,Midland,"690 Ash St, Midland, TX",0.43
+835,Linda,Thomas,69,Female,833,80779,Self-employed,San Antonio,"789 Maple St, San Antonio, TX",0.12
+836,Patricia,Williams,42,Female,791,108754,Unemployed,San Antonio,"789 Maple St, San Antonio, TX",0.07
+837,Michael,Thompson,19,Male,620,31010,Self-employed,Waco,"579 Walnut St, Waco, TX",0.75
+838,Jennifer,Martinez,58,Female,457,104980,Self-employed,El Paso,"135 Elm St, El Paso, TX",0.29
+839,Karen,Jackson,44,Female,768,63979,Unemployed,Lubbock,"246 Oak St, Lubbock, TX",0.12
+839,Karen,Jackson,44,Female,751,63979,Unemployed,Lubbock,"246 Oak St, Lubbock, TX",0.12
+840,Thomas,Davis,59,Male,775,108869,Self-employed,San Antonio,"789 Maple St, San Antonio, TX",0.14
+841,Richard,Perez,39,Male,438,75119,Self-employed,Lubbock,"246 Oak St, Lubbock, TX",0.41
+842,Mary,Moore,65,Female,781,85006,Unemployed,San Antonio,"789 Maple St, San Antonio, TX",0.02
+843,John,Jones,40,Male,435,88981,Self-employed,Amarillo,"357 Cedar St, Amarillo, TX",0.46
+844,Karen,Lopez,68,Female,494,110529,Unemployed,Corpus Christi,"801 Cherry St, Corpus Christi, TX",0.26
+845,Charles,Lopez,68,Male,581,106673,Employed,Abilene,"468 Spruce St, Abilene, TX",0.39
+846,Mary,Johnson,62,Female,567,44479,Self-employed,Austin,"456 Pine St, Austin, TX",0.8
+847,Elizabeth,Brown,70,Female,828,57625,Unemployed,Abilene,"468 Spruce St, Abilene, TX",0.16
+848,Michael,Davis,63,Male,806,80925,Self-employed,Amarillo,"357 Cedar St, Amarillo, TX",0.11
+849,Mary,Hernandez,32,Female,499,54081,Employed,San Antonio,"789 Maple St, San Antonio, TX",0.6
+850,John,Hernandez,32,Male,819,113180,Employed,Abilene,"468 Spruce St, Abilene, TX",0.09
