@@ -29,6 +29,9 @@ Data Visualization: Create intuitive charts and graphs to represent trends in th
 # Conclusion
 This project demonstrates how data analysis can be leveraged to gain meaningful insights in the automotive sales and finance industry. By exploring customer demographics, sales performance, and financing trends, this analysis equips dealerships and finance officers with the knowledge to optimize sales strategies and enhance customer satisfaction. The use of Python for data cleaning, visualization, and exploratory analysis showcases the power of data-driven decision-making in real-world scenarios.
 
+## Preview the Dashboard
+[Click here to view the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/dilan.hamawandy/viz/AutomotiveFinanceDashboard/Dashboard1)
+
 The findings from this analysis can be used to better understand market dynamics, improve inventory management, and tailor financing options to meet customer needs. Future enhancements, such as integrating SQL for more efficient data querying and developing interactive dashboards, will further increase the project's value and applicability.
 
 This repository serves as a practical example of how data analysis skills can be applied to support business goals and drive informed decisions in the automotive sector.
